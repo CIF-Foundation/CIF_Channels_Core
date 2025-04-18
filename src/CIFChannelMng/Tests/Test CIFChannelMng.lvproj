@@ -34,6 +34,7 @@
 				<Item Name="LVDateTimeRec.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVDateTimeRec.ctl"/>
 				<Item Name="NI_Data Type.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/Data Type/NI_Data Type.lvlib"/>
 				<Item Name="Qualified Name Array To Single String.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/LVClass/Qualified Name Array To Single String.vi"/>
+				<Item Name="Stats_CIF_U.lvlib" Type="Library" URL="/&lt;vilib&gt;/CIF Foundation/CIF Utilities/Statistics/Stats_CIF_U.lvlib"/>
 				<Item Name="Time_CIF_U.lvlib" Type="Library" URL="/&lt;vilib&gt;/CIF Foundation/CIF Utilities/Time/Time_CIF_U.lvlib"/>
 				<Item Name="VariantType.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/VariantDataType/VariantType.lvlib"/>
 			</Item>
@@ -44,6 +45,7 @@
 			<Item Name="CIFChannels.lvclass" Type="LVClass" URL="../../../CIFChannels/CIFChannels.lvclass"/>
 			<Item Name="ControlTypes.ctl" Type="VI" URL="../../../../CIFUtilities/Scripting/Update Enum/typdef/ControlTypes.ctl"/>
 			<Item Name="Get Control From Type Descriptor.vi" Type="VI" URL="../../../../CIFUtilities/Scripting/Update Enum/Get Control From Type Descriptor.vi"/>
+			<Item Name="Read Forced.vi" Type="VI" URL="../../../CIFChannels/Accessors/Read Forced.vi"/>
 			<Item Name="String to U16.vi" Type="VI" URL="../../../../CIFUtilities/Scripting/Update Enum/String to U16.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
