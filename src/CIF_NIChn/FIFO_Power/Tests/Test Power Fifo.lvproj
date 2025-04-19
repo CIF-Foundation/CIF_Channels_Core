@@ -99,7 +99,7 @@ AddOutputFilter chunkFilter
 				<Item Name="Assert Error Cluster Type.vim" Type="VI" URL="/&lt;vilib&gt;/Utility/TypeAssert/Assert Error Cluster Type.vim"/>
 				<Item Name="Assert Integer Type.vim" Type="VI" URL="/&lt;vilib&gt;/Utility/TypeAssert/Assert Integer Type.vim"/>
 				<Item Name="Assert Signed Integer Type.vim" Type="VI" URL="/&lt;vilib&gt;/Utility/TypeAssert/Assert Signed Integer Type.vim"/>
-				<Item Name="CIFChannelCore.lvlib" Type="Library" URL="/&lt;vilib&gt;/CIFChannels/CIFChannelCore.lvlib"/>
+				<Item Name="CIFChannelCore.lvlib" Type="Library" URL="/&lt;vilib&gt;/CIF Foundation/CIF Channels/CIFChannels/CIFChannelCore.lvlib"/>
 				<Item Name="Create NI GUID.vi" Type="VI" URL="/&lt;vilib&gt;/string/Create NI GUID.vi"/>
 				<Item Name="DataTypes_CIF_U.lvlib" Type="Library" URL="/&lt;vilib&gt;/CIF Foundation/CIF Utilities/DataTypes/DataTypes_CIF_U.lvlib"/>
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
@@ -113,7 +113,6 @@ AddOutputFilter chunkFilter
 			<Item Name="CIF_NIChn.lvclass" Type="LVClass" URL="../../../NIChn/CIF_NIChn.lvclass"/>
 			<Item Name="CIF_NIChn_Fifo_Power.lvclass" Type="LVClass" URL="../../CIF_NIChn_Fifo_Power.lvclass"/>
 			<Item Name="CIFChannels.lvclass" Type="LVClass" URL="../../../../CIFChannels/CIFChannels.lvclass"/>
-			<Item Name="Read Variable Length Dbl Array.vi" Type="VI" URL="../../../../../../../NI-Channels/temp to be added if working/Read Variable Length Dbl Array.vi"/>
 			<Item Name="Waveform Flatten.vi" Type="VI" URL="../../../../ChannelCommon/CIFFIFO/Flatten/Waveform Flatten.vi"/>
 			<Item Name="Waveform Unflatten.vi" Type="VI" URL="../../../../ChannelCommon/CIFFIFO/Flatten/Waveform Unflatten.vi"/>
 		</Item>
