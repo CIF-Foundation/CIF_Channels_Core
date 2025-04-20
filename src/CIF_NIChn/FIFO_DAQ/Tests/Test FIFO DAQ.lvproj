@@ -98,18 +98,14 @@ AddOutputFilter chunkFilter
 		<Item Name="Test Subscriber.vi" Type="VI" URL="../Test Subscriber.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
-				<Item Name="Append Error Location.vi" Type="VI" URL="/&lt;vilib&gt;/CIFChannels/subVIs/Append Error Location.vi"/>
 				<Item Name="Assert Error Cluster Type.vim" Type="VI" URL="/&lt;vilib&gt;/Utility/TypeAssert/Assert Error Cluster Type.vim"/>
 				<Item Name="Assert Integer Type.vim" Type="VI" URL="/&lt;vilib&gt;/Utility/TypeAssert/Assert Integer Type.vim"/>
 				<Item Name="Assert Signed Integer Type.vim" Type="VI" URL="/&lt;vilib&gt;/Utility/TypeAssert/Assert Signed Integer Type.vim"/>
 				<Item Name="CIFChannelCore.lvlib" Type="Library" URL="/&lt;vilib&gt;/CIF Foundation/CIF Channels/CIFChannels/CIFChannelCore.lvlib"/>
-				<Item Name="CIFServices Fill In Error Info Ex.vi" Type="VI" URL="/&lt;vilib&gt;/CIFChannels/subVIs/CIFServices Fill In Error Info Ex.vi"/>
-				<Item Name="Close Channel.vi" Type="VI" URL="/&lt;vilib&gt;/CIFChannels/Top Level/Close Channel.vi"/>
 				<Item Name="Create NI GUID.vi" Type="VI" URL="/&lt;vilib&gt;/string/Create NI GUID.vi"/>
 				<Item Name="DataTypes_CIF_U.lvlib" Type="Library" URL="/&lt;vilib&gt;/CIF Foundation/CIF Utilities/DataTypes/DataTypes_CIF_U.lvlib"/>
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
 				<Item Name="Errors_CIF_U.lvlib" Type="Library" URL="/&lt;vilib&gt;/CIF Foundation/CIF Utilities/Errors/Errors_CIF_U.lvlib"/>
-				<Item Name="Get dll Path.vi" Type="VI" URL="/&lt;vilib&gt;/CIFChannels/subVIs/Get dll Path.vi"/>
 				<Item Name="Get LV Class Name.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/LVClass/Get LV Class Name.vi"/>
 				<Item Name="High Resolution Relative Seconds.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/High Resolution Relative Seconds.vi"/>
 				<Item Name="Stats_CIF_U.lvlib" Type="Library" URL="/&lt;vilib&gt;/CIF Foundation/CIF Utilities/Statistics/Stats_CIF_U.lvlib"/>
@@ -117,7 +113,8 @@ AddOutputFilter chunkFilter
 			</Item>
 			<Item Name="ChannelCommon.lvlib" Type="Library" URL="../../../../ChannelCommon/ChannelCommon.lvlib"/>
 			<Item Name="CIF_NIChn.lvclass" Type="LVClass" URL="../../../NIChn/CIF_NIChn.lvclass"/>
-			<Item Name="CIF_NIChn_Fifo_DAQ.lvclass" Type="LVClass" URL="../../CIF_NIChn_Fifo_DAQ.lvclass"/>
+			<Item Name="CIF_NIChn_FIFO_DAQ.lvclass" Type="LVClass" URL="../../CIF_NIChn_FIFO_DAQ.lvclass"/>
+			<Item Name="CIF_NIChn_Fifo_U8.lvclass" Type="LVClass" URL="../../../FIFO_U8/CIF_NIChn_Fifo_U8.lvclass"/>
 			<Item Name="CIFChannels.lvclass" Type="LVClass" URL="../../../../CIFChannels/CIFChannels.lvclass"/>
 			<Item Name="DVR Flatten.vi" Type="VI" URL="../../../../ChannelCommon/CIFFIFO/Flatten/DVR Flatten.vi"/>
 			<Item Name="DVR Unflatten.vi" Type="VI" URL="../../../../ChannelCommon/CIFFIFO/Flatten/DVR Unflatten.vi"/>
