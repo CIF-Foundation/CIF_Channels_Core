@@ -19,24 +19,35 @@
 				<Item Name="openg_variant.lvlib" Type="Library" URL="/&lt;userlib&gt;/_OpenG.lib/lvdata/lvdata.llb/openg_variant.lvlib"/>
 			</Item>
 			<Item Name="vi.lib" Type="Folder">
+				<Item Name="Add Error.vi" Type="VI" URL="/&lt;vilib&gt;/CIFChannels/subVIs/Add Error.vi"/>
+				<Item Name="Append Error Location.vi" Type="VI" URL="/&lt;vilib&gt;/CIFChannels/subVIs/Append Error Location.vi"/>
 				<Item Name="Assert Error Cluster Type.vim" Type="VI" URL="/&lt;vilib&gt;/Utility/TypeAssert/Assert Error Cluster Type.vim"/>
 				<Item Name="Assert Signed Integer Type.vim" Type="VI" URL="/&lt;vilib&gt;/Utility/TypeAssert/Assert Signed Integer Type.vim"/>
-				<Item Name="CIFChannelCore.lvlib" Type="Library" URL="/&lt;vilib&gt;/CIFChannels/CIFChannelCore.lvlib"/>
+				<Item Name="CIFServices Fill In Error Info Ex.vi" Type="VI" URL="/&lt;vilib&gt;/CIFChannels/subVIs/CIFServices Fill In Error Info Ex.vi"/>
 				<Item Name="Clear Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Clear Errors.vi"/>
+				<Item Name="Close Channel.vi" Type="VI" URL="/&lt;vilib&gt;/CIFChannels/Top Level/Close Channel.vi"/>
 				<Item Name="Create NI GUID.vi" Type="VI" URL="/&lt;vilib&gt;/string/Create NI GUID.vi"/>
 				<Item Name="DataTypes_CIF_U.lvlib" Type="Library" URL="/&lt;vilib&gt;/CIF Foundation/CIF Utilities/DataTypes/DataTypes_CIF_U.lvlib"/>
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
+				<Item Name="Errors.ctl" Type="VI" URL="/&lt;vilib&gt;/CIFChannels/TypeDef/Errors.ctl"/>
 				<Item Name="Errors_CIF_U.lvlib" Type="Library" URL="/&lt;vilib&gt;/CIF Foundation/CIF Utilities/Errors/Errors_CIF_U.lvlib"/>
+				<Item Name="Get dll Path.vi" Type="VI" URL="/&lt;vilib&gt;/CIFChannels/subVIs/Get dll Path.vi"/>
 				<Item Name="Get LV Class Default Value By Name.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/LVClass/Get LV Class Default Value By Name.vi"/>
 				<Item Name="Get LV Class Name.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/LVClass/Get LV Class Name.vi"/>
 				<Item Name="High Resolution Relative Seconds.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/High Resolution Relative Seconds.vi"/>
+				<Item Name="Link Channels.vi" Type="VI" URL="/&lt;vilib&gt;/CIFChannels/Orchestration/Link Channels.vi"/>
 				<Item Name="LV70DateRecToTimeStamp.vi" Type="VI" URL="/&lt;vilib&gt;/_oldvers/_oldvers.llb/LV70DateRecToTimeStamp.vi"/>
 				<Item Name="LVDateTimeRec.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVDateTimeRec.ctl"/>
 				<Item Name="NI_Data Type.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/Data Type/NI_Data Type.lvlib"/>
+				<Item Name="Open Subscriber.vim" Type="VI" URL="/&lt;vilib&gt;/CIFChannels/Top Level/Open Subscriber.vim"/>
+				<Item Name="Open Tag Publisher.vim" Type="VI" URL="/&lt;vilib&gt;/CIFChannels/Top Level/Open Tag Publisher.vim"/>
 				<Item Name="Qualified Name Array To Single String.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/LVClass/Qualified Name Array To Single String.vi"/>
+				<Item Name="Read Channel.vim" Type="VI" URL="/&lt;vilib&gt;/CIFChannels/Top Level/Read Channel.vim"/>
+				<Item Name="Set Default Value.vim" Type="VI" URL="/&lt;vilib&gt;/CIFChannels/Top Level/Set Default Value.vim"/>
 				<Item Name="Stats_CIF_U.lvlib" Type="Library" URL="/&lt;vilib&gt;/CIF Foundation/CIF Utilities/Statistics/Stats_CIF_U.lvlib"/>
 				<Item Name="Time_CIF_U.lvlib" Type="Library" URL="/&lt;vilib&gt;/CIF Foundation/CIF Utilities/Time/Time_CIF_U.lvlib"/>
 				<Item Name="VariantType.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/VariantDataType/VariantType.lvlib"/>
+				<Item Name="Write Channel.vim" Type="VI" URL="/&lt;vilib&gt;/CIFChannels/Top Level/Write Channel.vim"/>
 			</Item>
 			<Item Name="ChannelCommon.lvlib" Type="Library" URL="../../../ChannelCommon/ChannelCommon.lvlib"/>
 			<Item Name="CIF_NIChn.lvclass" Type="LVClass" URL="../../../CIF_NIChn/NIChn/CIF_NIChn.lvclass"/>

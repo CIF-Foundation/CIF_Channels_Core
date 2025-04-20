@@ -29,5 +29,6 @@
 		<Item Name="Unflatten Header.vi" Type="VI" URL="../Utilities/Unflatten Header.vi"/>
 		<Item Name="Update Time.vi" Type="VI" URL="../Utilities/Update Time.vi"/>
 		<Item Name="Get Waveform DVRs.vi" Type="VI" URL="../Utilities/Get Waveform DVRs.vi"/>
+		<Item Name="Add Header Bytes.vi" Type="VI" URL="../Utilities/Add Header Bytes.vi"/>
 	</Item>
 </Library>
