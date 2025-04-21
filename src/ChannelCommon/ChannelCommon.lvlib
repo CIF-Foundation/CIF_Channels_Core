@@ -15,6 +15,7 @@
 		<Item Name="FIFO Flags.ctl" Type="VI" URL="../typedef/FIFO Flags.ctl"/>
 		<Item Name="FIFO Header.ctl" Type="VI" URL="../typedef/FIFO Header.ctl"/>
 		<Item Name="FIFO Management Data.ctl" Type="VI" URL="../typedef/FIFO Management Data.ctl"/>
+		<Item Name="New FIFO Instance Configuration.ctl" Type="VI" URL="../typedef/New FIFO Instance Configuration.ctl"/>
 		<Item Name="Tag Management Data.ctl" Type="VI" URL="../typedef/Tag Management Data.ctl"/>
 		<Item Name="TimeStamps.ctl" Type="VI" URL="../typedef/TimeStamps.ctl"/>
 	</Item>
@@ -23,12 +24,11 @@
 		<Item Name="Flatten FIFO Config.vi" Type="VI" URL="../Utilities/Flatten FIFO Config.vi"/>
 		<Item Name="Unflatten FIFO Config.vi" Type="VI" URL="../Utilities/Unflatten FIFO Config.vi"/>
 		<Item Name="Expand FIFO Flags.vi" Type="VI" URL="../Utilities/Expand FIFO Flags.vi"/>
-		<Item Name="Reset Waveform DVRs.vi" Type="VI" URL="../Utilities/Reset Waveform DVRs.vi"/>
 		<Item Name="Flatten Header.vi" Type="VI" URL="../Utilities/Flatten Header.vi"/>
 		<Item Name="Add Error.vi" Type="VI" URL="../Utilities/Add Error.vi"/>
 		<Item Name="Unflatten Header.vi" Type="VI" URL="../Utilities/Unflatten Header.vi"/>
 		<Item Name="Update Time.vi" Type="VI" URL="../Utilities/Update Time.vi"/>
-		<Item Name="Get Waveform DVRs.vi" Type="VI" URL="../Utilities/Get Waveform DVRs.vi"/>
 		<Item Name="Add Header Bytes.vi" Type="VI" URL="../Utilities/Add Header Bytes.vi"/>
+		<Item Name="Create New FIFO Instance Configuration.vi" Type="VI" URL="../Utilities/Create New FIFO Instance Configuration.vi"/>
 	</Item>
 </Library>
