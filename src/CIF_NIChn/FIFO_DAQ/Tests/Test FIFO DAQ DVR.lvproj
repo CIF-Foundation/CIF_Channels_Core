@@ -113,7 +113,7 @@ AddOutputFilter chunkFilter
 			</Item>
 			<Item Name="ChannelCommon.lvlib" Type="Library" URL="../../../../ChannelCommon/ChannelCommon.lvlib"/>
 			<Item Name="CIF_NIChn.lvclass" Type="LVClass" URL="../../../NIChn/CIF_NIChn.lvclass"/>
-			<Item Name="CIF_NIChn_FIFO_DAQ.lvclass" Type="LVClass" URL="../../CIF_NIChn_FIFO_DAQ.lvclass"/>
+			<Item Name="CIF_NIChn_FIFO_DAQ_DVR.lvclass" Type="LVClass" URL="../../CIF_NIChn_FIFO_DAQ_DVR.lvclass"/>
 			<Item Name="CIF_NIChn_Fifo_U8.lvclass" Type="LVClass" URL="../../../FIFO_U8/CIF_NIChn_Fifo_U8.lvclass"/>
 			<Item Name="CIFChannels.lvclass" Type="LVClass" URL="../../../../CIFChannels/CIFChannels.lvclass"/>
 			<Item Name="DVR Flatten.vi" Type="VI" URL="../../../../ChannelCommon/CIFFIFO/Flatten/DVR Flatten.vi"/>
