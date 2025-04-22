@@ -11,40 +11,7 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="deps" Type="Folder"/>
-		<Item Name="Channel Performance Test.vi" Type="VI" URL="../Channel Performance Test.vi"/>
-		<Item Name="CIFTag Update Test Cases.vi" Type="VI" URL="../CIFTag Update Test Cases.vi"/>
-		<Item Name="Dependencies" Type="Dependencies">
-			<Item Name="vi.lib" Type="Folder">
-				<Item Name="Add Error.vi" Type="VI" URL="/&lt;vilib&gt;/CIFChannels/subVIs/Add Error.vi"/>
-				<Item Name="Append Error Location.vi" Type="VI" URL="/&lt;vilib&gt;/CIFChannels/subVIs/Append Error Location.vi"/>
-				<Item Name="Assert Error Cluster Type.vim" Type="VI" URL="/&lt;vilib&gt;/Utility/TypeAssert/Assert Error Cluster Type.vim"/>
-				<Item Name="Assert Signed Integer Type.vim" Type="VI" URL="/&lt;vilib&gt;/Utility/TypeAssert/Assert Signed Integer Type.vim"/>
-				<Item Name="CIFChannelCore.lvlib" Type="Library" URL="/&lt;vilib&gt;/CIF Foundation/CIF Channels/CIFChannels/CIFChannelCore.lvlib"/>
-				<Item Name="CIFServices Fill In Error Info Ex.vi" Type="VI" URL="/&lt;vilib&gt;/CIFChannels/subVIs/CIFServices Fill In Error Info Ex.vi"/>
-				<Item Name="Clear Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Clear Errors.vi"/>
-				<Item Name="Close Channel.vi" Type="VI" URL="/&lt;vilib&gt;/CIFChannels/Top Level/Close Channel.vi"/>
-				<Item Name="Create NI GUID.vi" Type="VI" URL="/&lt;vilib&gt;/string/Create NI GUID.vi"/>
-				<Item Name="DataTypes_CIF_U.lvlib" Type="Library" URL="/&lt;vilib&gt;/CIF Foundation/CIF Utilities/DataTypes/DataTypes_CIF_U.lvlib"/>
-				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
-				<Item Name="Errors.ctl" Type="VI" URL="/&lt;vilib&gt;/CIFChannels/TypeDef/Errors.ctl"/>
-				<Item Name="Errors_CIF_U.lvlib" Type="Library" URL="/&lt;vilib&gt;/CIF Foundation/CIF Utilities/Errors/Errors_CIF_U.lvlib"/>
-				<Item Name="Get dll Path.vi" Type="VI" URL="/&lt;vilib&gt;/CIFChannels/subVIs/Get dll Path.vi"/>
-				<Item Name="Get LV Class Name.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/LVClass/Get LV Class Name.vi"/>
-				<Item Name="High Resolution Relative Seconds.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/High Resolution Relative Seconds.vi"/>
-				<Item Name="Link Channels.vi" Type="VI" URL="/&lt;vilib&gt;/CIFChannels/Orchestration/Link Channels.vi"/>
-				<Item Name="Open Subscriber.vim" Type="VI" URL="/&lt;vilib&gt;/CIFChannels/Top Level/Open Subscriber.vim"/>
-				<Item Name="Open Tag Publisher.vim" Type="VI" URL="/&lt;vilib&gt;/CIFChannels/Top Level/Open Tag Publisher.vim"/>
-				<Item Name="Read Channel.vim" Type="VI" URL="/&lt;vilib&gt;/CIFChannels/Top Level/Read Channel.vim"/>
-				<Item Name="Stats_CIF_U.lvlib" Type="Library" URL="/&lt;vilib&gt;/CIF Foundation/CIF Utilities/Statistics/Stats_CIF_U.lvlib"/>
-				<Item Name="Time_CIF_U.lvlib" Type="Library" URL="/&lt;vilib&gt;/CIF Foundation/CIF Utilities/Time/Time_CIF_U.lvlib"/>
-				<Item Name="Write Channel.vim" Type="VI" URL="/&lt;vilib&gt;/CIFChannels/Top Level/Write Channel.vim"/>
-			</Item>
-			<Item Name="ChannelCommon.lvlib" Type="Library" URL="../../../ChannelCommon/ChannelCommon.lvlib"/>
-			<Item Name="CIF_NIChn.lvclass" Type="LVClass" URL="../../NIChn/CIF_NIChn.lvclass"/>
-			<Item Name="CIF_NIChn_Double.lvclass" Type="LVClass" URL="../../Double/CIF_NIChn_Double.lvclass"/>
-			<Item Name="CIFChannels.lvclass" Type="LVClass" URL="../../../CIFChannels/CIFChannels.lvclass"/>
-		</Item>
+		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
 	<Item Name="RT PXI Target" Type="RT PXI Chassis">
@@ -124,7 +91,29 @@ AddOutputFilter chunkFilter
 		<Property Name="target.WebServer.ViAccess" Type="Str">+*</Property>
 		<Property Name="target.webservices.SecurityAPIKey" Type="Str">PqVr/ifkAQh+lVrdPIykXlFvg12GhhQFR8H9cUhphgg=:pTe9HRlQuMfJxAG6QCGq7UvoUpJzAzWGKy5SbZ+roSU=</Property>
 		<Property Name="target.webservices.ValidTimestampWindow" Type="Int">15</Property>
-		<Item Name="Dependencies" Type="Dependencies"/>
+		<Item Name="CIF_NIChn_FifoCAN.lvclass" Type="LVClass" URL="../../../FIFO_CAN/CIF_NIChn_FifoCAN.lvclass"/>
+		<Item Name="Performance Test.vi" Type="VI" URL="../Performance Test.vi"/>
+		<Item Name="Test Comm Multi.vi" Type="VI" URL="../Test Comm Multi.vi"/>
+		<Item Name="Dependencies" Type="Dependencies">
+			<Item Name="vi.lib" Type="Folder">
+				<Item Name="Assert Error Cluster Type.vim" Type="VI" URL="/&lt;vilib&gt;/Utility/TypeAssert/Assert Error Cluster Type.vim"/>
+				<Item Name="Assert Integer Type.vim" Type="VI" URL="/&lt;vilib&gt;/Utility/TypeAssert/Assert Integer Type.vim"/>
+				<Item Name="Assert Signed Integer Type.vim" Type="VI" URL="/&lt;vilib&gt;/Utility/TypeAssert/Assert Signed Integer Type.vim"/>
+				<Item Name="CIFChannelCore.lvlib" Type="Library" URL="/&lt;vilib&gt;/CIF Foundation/CIF Channels/CIFChannels/CIFChannelCore.lvlib"/>
+				<Item Name="Create NI GUID.vi" Type="VI" URL="/&lt;vilib&gt;/string/Create NI GUID.vi"/>
+				<Item Name="DataTypes_CIF_U.lvlib" Type="Library" URL="/&lt;vilib&gt;/CIF Foundation/CIF Utilities/DataTypes/DataTypes_CIF_U.lvlib"/>
+				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
+				<Item Name="Errors_CIF_U.lvlib" Type="Library" URL="/&lt;vilib&gt;/CIF Foundation/CIF Utilities/Errors/Errors_CIF_U.lvlib"/>
+				<Item Name="Get LV Class Name.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/LVClass/Get LV Class Name.vi"/>
+				<Item Name="Stats_CIF_U.lvlib" Type="Library" URL="/&lt;vilib&gt;/CIF Foundation/CIF Utilities/Statistics/Stats_CIF_U.lvlib"/>
+				<Item Name="Time_CIF_U.lvlib" Type="Library" URL="/&lt;vilib&gt;/CIF Foundation/CIF Utilities/Time/Time_CIF_U.lvlib"/>
+			</Item>
+			<Item Name="ChannelCommon.lvlib" Type="Library" URL="../../../../ChannelCommon/ChannelCommon.lvlib"/>
+			<Item Name="CIF_Fifo_CAN_Multi.lvclass" Type="LVClass" URL="../../CIF_Fifo_CAN_Multi.lvclass"/>
+			<Item Name="CIF_NIChn.lvclass" Type="LVClass" URL="../../../NIChn/CIF_NIChn.lvclass"/>
+			<Item Name="CIF_NIChn_Fifo_U8.lvclass" Type="LVClass" URL="../../../FIFO_U8/CIF_NIChn_Fifo_U8.lvclass"/>
+			<Item Name="CIFChannels.lvclass" Type="LVClass" URL="../../../../CIFChannels/CIFChannels.lvclass"/>
+		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
 </Project>

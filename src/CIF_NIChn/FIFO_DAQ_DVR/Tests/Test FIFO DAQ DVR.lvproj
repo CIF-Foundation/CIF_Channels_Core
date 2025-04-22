@@ -93,6 +93,7 @@ AddOutputFilter chunkFilter
 		<Property Name="target.webservices.ValidTimestampWindow" Type="Int">15</Property>
 		<Item Name="Performance Test.vi" Type="VI" URL="../Performance Test.vi"/>
 		<Item Name="Test Comm.vi" Type="VI" URL="../Test Comm.vi"/>
+		<Item Name="Test DVR Flatten.vi" Type="VI" URL="../Test DVR Flatten.vi"/>
 		<Item Name="Test Flatten.vi" Type="VI" URL="../Test Flatten.vi"/>
 		<Item Name="Test Publisher.vi" Type="VI" URL="../Test Publisher.vi"/>
 		<Item Name="Test Subscriber.vi" Type="VI" URL="../Test Subscriber.vi"/>

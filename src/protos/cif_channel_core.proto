@@ -39,12 +39,11 @@ message ConnectSubscriber {
 message FIFOInstance {
   string publisher_name = 1; //The name of the existing FIFO to create a new instance for the subscriber
   bool retry_on_timeout = 2; //Is the subscriber applying backpressure to control the rate of the publisher.  On FIFO full (timeout) the publisher will retry until space is available.
-    //This is normally only used for file read publishers.  
+    //This is normally only used for file read publishers.  This value is applied as an AND with the publisher configuration (will only apply backpressure if publisher is configured for backpressure support).
   bool primary_subscriber = 3;  //Only the primary subsciber will support timeout.  There can only be a single primary subscriber.  
     //By default the first subscriber will be the primary unless another subscriber sets this flag true.  Then the new subscriber will be the primary.
-  uint32 buffer_size_override = 4;  //A value of 0 indicates don't override.  This is the number of "elements" in the FIFO buffer.  
+  uint32 message_per_fifo_override = 4;  //A value of 0 indicates don't override.  This is the number of "elements" in the FIFO buffer.  
     //"Element" definition is implementation specific.  Typically this is bytes to support variable length payloads but when payload size is fixed it may be a full payload messages.
-  bytes custom_connect = 5;  //This field allows passing free form custom data needed to perform specific connection operations.  It's implementation will be type specific.  
 }
 
 message FIFOReference {
