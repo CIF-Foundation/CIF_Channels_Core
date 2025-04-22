@@ -56,7 +56,6 @@
 			<Item Name="CIFChannels.lvclass" Type="LVClass" URL="../../../CIFChannels/CIFChannels.lvclass"/>
 			<Item Name="ControlTypes.ctl" Type="VI" URL="../../../../CIFUtilities/Scripting/Update Enum/typdef/ControlTypes.ctl"/>
 			<Item Name="Get Control From Type Descriptor.vi" Type="VI" URL="../../../../CIFUtilities/Scripting/Update Enum/Get Control From Type Descriptor.vi"/>
-			<Item Name="Read Forced.vi" Type="VI" URL="../../../CIFChannels/Accessors/Read Forced.vi"/>
 			<Item Name="String to U16.vi" Type="VI" URL="../../../../CIFUtilities/Scripting/Update Enum/String to U16.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
