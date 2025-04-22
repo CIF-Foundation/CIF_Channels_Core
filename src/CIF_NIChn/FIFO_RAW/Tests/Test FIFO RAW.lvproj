@@ -13,7 +13,7 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Test Comm Multi.vi" Type="VI" URL="../Test Comm Multi.vi"/>
-		<Item Name="CIF_Fifo_Raw.lvclass" Type="LVClass" URL="../../CIF_Fifo_Raw.lvclass"/>
+		<Item Name="CIF_NIChn_Raw.lvclass" Type="LVClass" URL="../../CIF_NIChn_Raw.lvclass"/>
 		<Item Name="CIF_Fifo_U8_Multi.lvclass" Type="LVClass" URL="../../../FIFO_U8_Multi/CIF_Fifo_U8_Multi.lvclass"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
@@ -33,6 +33,7 @@
 			<Item Name="CIF_NIChn.lvclass" Type="LVClass" URL="../../../NIChn/CIF_NIChn.lvclass"/>
 			<Item Name="CIF_NIChn_Fifo_U8.lvclass" Type="LVClass" URL="../../../FIFO_U8/CIF_NIChn_Fifo_U8.lvclass"/>
 			<Item Name="CIFChannels.lvclass" Type="LVClass" URL="../../../../CIFChannels/CIFChannels.lvclass"/>
+			<Item Name="CIF_NIChn_DAQ_Base.lvclass" Type="LVClass" URL="../../../FIFO_DAQ/DAQ Base/CIF_NIChn_DAQ_Base.lvclass"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
