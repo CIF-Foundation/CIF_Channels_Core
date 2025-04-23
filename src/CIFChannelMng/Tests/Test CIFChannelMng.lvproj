@@ -23,7 +23,6 @@
 				<Item Name="Append Error Location.vi" Type="VI" URL="/&lt;vilib&gt;/CIFChannels/subVIs/Append Error Location.vi"/>
 				<Item Name="Assert Error Cluster Type.vim" Type="VI" URL="/&lt;vilib&gt;/Utility/TypeAssert/Assert Error Cluster Type.vim"/>
 				<Item Name="Assert Signed Integer Type.vim" Type="VI" URL="/&lt;vilib&gt;/Utility/TypeAssert/Assert Signed Integer Type.vim"/>
-				<Item Name="CIFChannelCore.lvlib" Type="Library" URL="/&lt;vilib&gt;/CIF Foundation/CIF Channels/CIFChannels/CIFChannelCore.lvlib"/>
 				<Item Name="CIFServices Fill In Error Info Ex.vi" Type="VI" URL="/&lt;vilib&gt;/CIFChannels/subVIs/CIFServices Fill In Error Info Ex.vi"/>
 				<Item Name="Clear Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Clear Errors.vi"/>
 				<Item Name="Close Channel.vi" Type="VI" URL="/&lt;vilib&gt;/CIFChannels/Top Level/Close Channel.vi"/>
@@ -40,6 +39,7 @@
 				<Item Name="LV70DateRecToTimeStamp.vi" Type="VI" URL="/&lt;vilib&gt;/_oldvers/_oldvers.llb/LV70DateRecToTimeStamp.vi"/>
 				<Item Name="LVDateTimeRec.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVDateTimeRec.ctl"/>
 				<Item Name="NI_Data Type.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/Data Type/NI_Data Type.lvlib"/>
+				<Item Name="NIChannels.lvlib" Type="Library" URL="/&lt;vilib&gt;/CIF Foundation/NI Channels/NIChannels.lvlib"/>
 				<Item Name="Open Subscriber.vim" Type="VI" URL="/&lt;vilib&gt;/CIFChannels/Top Level/Open Subscriber.vim"/>
 				<Item Name="Open Tag Publisher.vim" Type="VI" URL="/&lt;vilib&gt;/CIFChannels/Top Level/Open Tag Publisher.vim"/>
 				<Item Name="Qualified Name Array To Single String.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/LVClass/Qualified Name Array To Single String.vi"/>

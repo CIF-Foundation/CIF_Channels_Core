@@ -109,9 +109,9 @@ AddOutputFilter chunkFilter
 				<Item Name="Time_CIF_U.lvlib" Type="Library" URL="/&lt;vilib&gt;/CIF Foundation/CIF Utilities/Time/Time_CIF_U.lvlib"/>
 				<Item Name="High Resolution Relative Seconds.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/High Resolution Relative Seconds.vi"/>
 				<Item Name="Create NI GUID.vi" Type="VI" URL="/&lt;vilib&gt;/string/Create NI GUID.vi"/>
-				<Item Name="CIFChannelCore.lvlib" Type="Library" URL="/&lt;vilib&gt;/CIF Foundation/CIF Channels/CIFChannels/CIFChannelCore.lvlib"/>
 				<Item Name="Assert Integer Type.vim" Type="VI" URL="/&lt;vilib&gt;/Utility/TypeAssert/Assert Integer Type.vim"/>
 				<Item Name="Assert Signed Integer Type.vim" Type="VI" URL="/&lt;vilib&gt;/Utility/TypeAssert/Assert Signed Integer Type.vim"/>
+				<Item Name="NIChannels.lvlib" Type="Library" URL="/&lt;vilib&gt;/CIF Foundation/NI Channels/NIChannels.lvlib"/>
 			</Item>
 			<Item Name="ChannelCommon.lvlib" Type="Library" URL="../../../../../ChannelCommon/ChannelCommon.lvlib"/>
 			<Item Name="CIFChannels.lvclass" Type="LVClass" URL="../../../../../CIFChannels/CIFChannels.lvclass"/>
