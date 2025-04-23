@@ -1,2 +1,2 @@
-# Channel_Manager
-Provides the channel manager that will setup and orchestrate channel interactions. 
+# CIF Channels
+Provides the channels for communication between plugins.  Supports both tag and FIFO based communication mechanisms. 
