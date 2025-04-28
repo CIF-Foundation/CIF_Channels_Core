@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2025-02-08 07:45:01" Modified_Date="2025-04-27 19:57:50" Creator="toddw" Comments="" ID="5fdf7e3d040068aa78c548b23d8dfc49">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2025-02-08 07:45:01" Modified_Date="2025-04-28 11:34:37" Creator="toddw" Comments="" ID="823aea29bc091ca821de20912662154b">
   <Library_General_Settings>
     <Package_File_Name>CIF_Foundation_lib_CIF_Channels</Package_File_Name>
-    <Library_Version>1.1.0.3</Library_Version>
+    <Library_Version>1.1.0.4</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..\src</Library_Source_Folder>
     <Library_Output_Folder>..\..\builds\VIPM</Library_Output_Folder>
@@ -32,7 +32,7 @@
       <Copyright/>
       <Packager>DOME Automation</Packager>
       <URL/>
-      <Release_Notes>Added flag to channel class for multi-writer FIFO.</Release_Notes>
+      <Release_Notes>Update multi-FIFO to show disconnect and connect state based on number of elements in array.  </Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -283,7 +283,7 @@
         <Path>..\src\FIFO</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>8264C7A1AFA1680AA6D10C4A4AAA116B</GUID>
+      <GUID>1D92247C3112517BD8E7419DC33A9286</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -542,7 +542,7 @@
         <Path>..\src\CIF_NIChn\NIChn\Dynamic\Destroy.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>268BC02D6B4F6EDE984AE3B2211BC0E6</GUID>
+      <GUID>2AAFA451F0DF79AA0C7C24991C87BF20</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -773,7 +773,7 @@
         <Path>..\src\CIFChannels\Dynamic\Remove Subscriber.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>B81467464FCBDD11DA6A9E645C61E7A8</GUID>
+      <GUID>D84208E9AF08C3069C1DCC5B9174F8D9</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1004,7 +1004,7 @@
         <Path>..\src\CIF_NIChn\FIFO_RAW\Core\Add Subscriber.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>32474680A1131C105E0F436A05456F74</GUID>
+      <GUID>592CC43AB5DB55161B54E2775C907346</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1053,7 +1053,7 @@
         <Path>..\src\CIFChannels\Utilities\Reset Benchmarks.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>221EFD1A85DAA0E50266ADFBFBE036C7</GUID>
+      <GUID>24D6AEC0917D2412CADB5CED9FCAE44D</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
