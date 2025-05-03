@@ -9,6 +9,7 @@
 </Property>
 	<Item Name="typedef" Type="Folder">
 		<Item Name="Benchmark Stats.ctl" Type="VI" URL="../typedef/Benchmark Stats.ctl"/>
+		<Item Name="Channel Pattern.ctl" Type="VI" URL="../typedef/Channel Pattern.ctl"/>
 		<Item Name="Datatype Waveform.ctl" Type="VI" URL="../typedef/Datatype Waveform.ctl"/>
 		<Item Name="Errors.ctl" Type="VI" URL="../typedef/Errors.ctl"/>
 		<Item Name="FIFO Config.ctl" Type="VI" URL="../typedef/FIFO Config.ctl"/>
