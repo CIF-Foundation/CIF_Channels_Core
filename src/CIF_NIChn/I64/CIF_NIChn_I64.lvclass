@@ -53,7 +53,7 @@
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">36175888</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">44040208</Property>
 	</Item>
 	<Item Name="Set Data Value.vi" Type="VI" URL="../Core/Set Data Value.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;#!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$%!B"V6Q:'&amp;U:71!"!!!!#R!=!!?!!!8&amp;5.*2F^/35.I&lt;F^*.D1O&lt;(:D&lt;'&amp;T=Q!+1UF'6'&amp;H)'^V&gt;!!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!.1!5!"UZV&lt;76S;7-!&amp;E"!!!(`````!!A*2GRB&gt;#"%982B!#J!=!!?!!!8&amp;5.*2F^/35.I&lt;F^*.D1O&lt;(:D&lt;'&amp;T=Q!*1UF'6'&amp;H)'FO!&amp;1!]!!-!!-!"!!&amp;!!9!"1!&amp;!!5!"1!(!!E!"1!+!A!!?!!!$1A!!!E!!!!!!!!!D1M!!!!!!!!!!!!!!!!!!!!!!!!+!!!!%!!!!!!!!!#3!!!!!!%!#Q!!!!!</Property>
