@@ -29,6 +29,7 @@
 		<Item Name="Add Error.vi" Type="VI" URL="../Utilities/Add Error.vi"/>
 		<Item Name="Unflatten Header.vi" Type="VI" URL="../Utilities/Unflatten Header.vi"/>
 		<Item Name="Add Header Bytes.vi" Type="VI" URL="../Utilities/Add Header Bytes.vi"/>
+		<Item Name="Remove Header Bytes.vi" Type="VI" URL="../Utilities/Remove Header Bytes.vi"/>
 		<Item Name="Create New FIFO Instance Configuration.vi" Type="VI" URL="../Utilities/Create New FIFO Instance Configuration.vi"/>
 	</Item>
 </Library>
