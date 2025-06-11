@@ -19,6 +19,7 @@
 		<Item Name="New FIFO Instance Configuration.ctl" Type="VI" URL="../typedef/New FIFO Instance Configuration.ctl"/>
 		<Item Name="Tag Management Data.ctl" Type="VI" URL="../typedef/Tag Management Data.ctl"/>
 		<Item Name="TimeStamps.ctl" Type="VI" URL="../typedef/TimeStamps.ctl"/>
+		<Item Name="Waveform Metadata.ctl" Type="VI" URL="../typedef/Waveform Metadata.ctl"/>
 	</Item>
 	<Item Name="Utilities" Type="Folder">
 		<Property Name="NI.SortType" Type="Int">3</Property>
@@ -31,5 +32,6 @@
 		<Item Name="Add Header Bytes.vi" Type="VI" URL="../Utilities/Add Header Bytes.vi"/>
 		<Item Name="Remove Header Bytes.vi" Type="VI" URL="../Utilities/Remove Header Bytes.vi"/>
 		<Item Name="Create New FIFO Instance Configuration.vi" Type="VI" URL="../Utilities/Create New FIFO Instance Configuration.vi"/>
+		<Item Name="Get Waveform Bytes.vi" Type="VI" URL="../Utilities/Get Waveform Bytes.vi"/>
 	</Item>
 </Library>

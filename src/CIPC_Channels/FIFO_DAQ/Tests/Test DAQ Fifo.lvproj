@@ -91,11 +91,9 @@ AddOutputFilter chunkFilter
 		<Property Name="target.WebServer.ViAccess" Type="Str">+*</Property>
 		<Property Name="target.webservices.SecurityAPIKey" Type="Str">PqVr/ifkAQh+lVrdPIykXlFvg12GhhQFR8H9cUhphgg=:pTe9HRlQuMfJxAG6QCGq7UvoUpJzAzWGKy5SbZ+roSU=</Property>
 		<Property Name="target.webservices.ValidTimestampWindow" Type="Int">15</Property>
-		<Item Name="Test U8 Backpressure.vi" Type="VI" URL="../Test U8 Backpressure.vi"/>
-		<Item Name="Test U8 Comm.vi" Type="VI" URL="../Test U8 Comm.vi"/>
-		<Item Name="Test U8 Publisher.vi" Type="VI" URL="../Test U8 Publisher.vi"/>
-		<Item Name="Test U8 Subscriber.vi" Type="VI" URL="../Test U8 Subscriber.vi"/>
-		<Item Name="U8 Performance Test.vi" Type="VI" URL="../U8 Performance Test.vi"/>
+		<Item Name="DAQ Performance Test.vi" Type="VI" URL="../DAQ Performance Test.vi"/>
+		<Item Name="Test DAQ Backpressure.vi" Type="VI" URL="../Test DAQ Backpressure.vi"/>
+		<Item Name="Test DAQ Comm.vi" Type="VI" URL="../Test DAQ Comm.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Assert Error Cluster Type.vim" Type="VI" URL="/&lt;vilib&gt;/Utility/TypeAssert/Assert Error Cluster Type.vim"/>
@@ -114,7 +112,7 @@ AddOutputFilter chunkFilter
 			</Item>
 			<Item Name="ChannelCommon.lvlib" Type="Library" URL="../../../../ChannelCommon/ChannelCommon.lvlib"/>
 			<Item Name="CIF_CIPC_Chn.lvclass" Type="LVClass" URL="../../../CIF_CIPC_Chan/CIF_CIPC_Chn.lvclass"/>
-			<Item Name="CIF_CIPC_Fifo_U8.lvclass" Type="LVClass" URL="../../CIF_CIPC_Fifo_U8.lvclass"/>
+			<Item Name="CIF_CIPC_Fifo_DAQ.lvclass" Type="LVClass" URL="../../CIF_CIPC_Fifo_DAQ.lvclass"/>
 			<Item Name="CIFChannels.lvclass" Type="LVClass" URL="../../../../CIFChannels/CIFChannels.lvclass"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
