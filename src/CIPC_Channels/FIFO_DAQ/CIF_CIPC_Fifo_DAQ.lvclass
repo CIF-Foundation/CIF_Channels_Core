@@ -166,4 +166,13 @@
 			<Property Name="NI.ClassItem.State" Type="Int">44040208</Property>
 		</Item>
 	</Item>
+	<Item Name="CIPC DAQ FIFO.vi" Type="VI" URL="../CIPC DAQ FIFO.vi">
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#?!!!!!Q!%!!!!0E"Q!"Y!!"M:1UF'8U.*5%.@2GFG&lt;V^%16%O&lt;(:D&lt;'&amp;T=Q!:1UF'8U.*5%.@2GFG&lt;V^%16%O&lt;(:D&lt;'&amp;T=Q"5!0!!$!!!!!!!!!!"!!!!!!!!!!!!!!!!!!!!!!)!!(A!!!!!!!!!!!!!!!!!!!E!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"!!)!!!!!</Property>
+		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">1090519040</Property>
+		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1342713856</Property>
+	</Item>
 </LVClass>

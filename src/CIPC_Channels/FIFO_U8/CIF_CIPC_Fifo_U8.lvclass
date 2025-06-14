@@ -138,4 +138,13 @@
 			<Property Name="NI.ClassItem.State" Type="Int">8396816</Property>
 		</Item>
 	</Item>
+	<Item Name="CIPC U8 Array FIFO.vi" Type="VI" URL="../CIPC U8 Array FIFO.vi">
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#?!!!!!Q!%!!!!0E"Q!"Y!!"I91UF'8U.*5%.@2GFG&lt;V^6/#ZM&gt;G.M98.T!!!91UF'8U.*5%.@2GFG&lt;V^6/#ZM&gt;G.M98.T!!"5!0!!$!!!!!!!!!!"!!!!!!!!!!!!!!!!!!!!!!)!!(A!!!!!!!!!!!!!!!!!!!E!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"!!)!!!!!</Property>
+		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">1090519040</Property>
+		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1342713856</Property>
+	</Item>
 </LVClass>

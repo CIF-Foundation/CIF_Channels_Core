@@ -93,4 +93,13 @@
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 		<Property Name="NI.ClassItem.State" Type="Int">8192</Property>
 	</Item>
+	<Item Name="CIPC_Double_Tag.vi" Type="VI" URL="../CIPC_Double_Tag.vi">
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#C!!!!!Q!%!!!!1E"Q!"Y!!"U&lt;1UF'8U.*5%.@1WBO8U2P&gt;7*M:3ZM&gt;G.M98.T!"N$35:@1UF11V^$;'Z@2'^V9GRF,GRW9WRB=X-!6!$Q!!Q!!!!!!!!!!1!!!!!!!!!!!!!!!!!!!!!#!!"Y!!!!!!!!!!!!!!!!!!!*!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1!#!!!!!!</Property>
+		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">1090519040</Property>
+		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1342713856</Property>
+	</Item>
 </LVClass>
