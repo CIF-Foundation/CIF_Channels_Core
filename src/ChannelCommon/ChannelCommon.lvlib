@@ -17,6 +17,7 @@
 		<Item Name="FIFO Header.ctl" Type="VI" URL="../typedef/FIFO Header.ctl"/>
 		<Item Name="FIFO Management Data.ctl" Type="VI" URL="../typedef/FIFO Management Data.ctl"/>
 		<Item Name="New FIFO Instance Configuration.ctl" Type="VI" URL="../typedef/New FIFO Instance Configuration.ctl"/>
+		<Item Name="New FIFO Instance Response.ctl" Type="VI" URL="../typedef/New FIFO Instance Response.ctl"/>
 		<Item Name="Tag Management Data.ctl" Type="VI" URL="../typedef/Tag Management Data.ctl"/>
 		<Item Name="TimeStamps.ctl" Type="VI" URL="../typedef/TimeStamps.ctl"/>
 		<Item Name="Waveform Metadata.ctl" Type="VI" URL="../typedef/Waveform Metadata.ctl"/>

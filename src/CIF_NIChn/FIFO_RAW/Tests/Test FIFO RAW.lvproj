@@ -28,6 +28,7 @@
 				<Item Name="Time_CIF_U.lvlib" Type="Library" URL="/&lt;vilib&gt;/CIF Foundation/CIF Utilities/Time/Time_CIF_U.lvlib"/>
 				<Item Name="Create NI GUID.vi" Type="VI" URL="/&lt;vilib&gt;/string/Create NI GUID.vi"/>
 				<Item Name="NIChannels.lvlib" Type="Library" URL="/&lt;vilib&gt;/CIF Foundation/NI Channels/NIChannels.lvlib"/>
+				<Item Name="Unflatten U64.vi" Type="VI" URL="/&lt;vilib&gt;/CIF Foundation/CIF Utilities/DataTypes/Unflatten U64.vi"/>
 				<Item Name="Flatten U64.vi" Type="VI" URL="/&lt;vilib&gt;/CIF Foundation/CIF Utilities/DataTypes/Flatten U64.vi"/>
 			</Item>
 			<Item Name="ChannelCommon.lvlib" Type="Library" URL="../../../../ChannelCommon/ChannelCommon.lvlib"/>
