@@ -11,9 +11,7 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="CIF_CIPC Channel Performance Test.vi" Type="VI" URL="../CIF_CIPC Channel Performance Test.vi"/>
-		<Item Name="CIF_CIPC_Tag Update Test Cases.vi" Type="VI" URL="../CIF_CIPC_Tag Update Test Cases.vi"/>
-		<Item Name="Test Configuration Flatten.vi" Type="VI" URL="../Test Configuration Flatten.vi"/>
+		<Item Name="CIF_CIPC_String_Tag Update Test Cases.vi" Type="VI" URL="../CIF_CIPC_String_Tag Update Test Cases.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Assert Error Cluster Type.vim" Type="VI" URL="/&lt;vilib&gt;/Utility/TypeAssert/Assert Error Cluster Type.vim"/>
@@ -23,22 +21,17 @@
 				<Item Name="DataTypes_CIF_U.lvlib" Type="Library" URL="/&lt;vilib&gt;/CIF Foundation/CIF Utilities/DataTypes/DataTypes_CIF_U.lvlib"/>
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
 				<Item Name="Errors_CIF_U.lvlib" Type="Library" URL="/&lt;vilib&gt;/CIF Foundation/CIF Utilities/Errors/Errors_CIF_U.lvlib"/>
-				<Item Name="Flatten U64.vi" Type="VI" URL="/&lt;vilib&gt;/CIF Foundation/CIF Utilities/DataTypes/Flatten U64.vi"/>
 				<Item Name="Get LV Class Name.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/LVClass/Get LV Class Name.vi"/>
-				<Item Name="High Resolution Relative Seconds.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/High Resolution Relative Seconds.vi"/>
 				<Item Name="NI_Data Type.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/Data Type/NI_Data Type.lvlib"/>
 				<Item Name="Stats_CIF_U.lvlib" Type="Library" URL="/&lt;vilib&gt;/CIF Foundation/CIF Utilities/Statistics/Stats_CIF_U.lvlib"/>
 				<Item Name="Time_CIF_U.lvlib" Type="Library" URL="/&lt;vilib&gt;/CIF Foundation/CIF Utilities/Time/Time_CIF_U.lvlib"/>
 				<Item Name="Trim Whitespace.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace.vi"/>
-				<Item Name="Unflatten U64.vi" Type="VI" URL="/&lt;vilib&gt;/CIF Foundation/CIF Utilities/DataTypes/Unflatten U64.vi"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
-			<Item Name="ChannelCommon.lvlib" Type="Library" URL="../../../ChannelCommon/ChannelCommon.lvlib"/>
-			<Item Name="CIF_CIPC_Chn.lvclass" Type="LVClass" URL="../../CIF_CIPC_Chan/CIF_CIPC_Chn.lvclass"/>
-			<Item Name="CIF_CIPC_Chn_Double.lvclass" Type="LVClass" URL="../../Double/CIF_CIPC_Chn_Double.lvclass"/>
-			<Item Name="CIF_CIPC_Chn_I64.lvclass" Type="LVClass" URL="../../I64/CIF_CIPC_Chn_I64.lvclass"/>
-			<Item Name="CIF_CIPC_Chn_U64.lvclass" Type="LVClass" URL="../../U64/CIF_CIPC_Chn_U64.lvclass"/>
-			<Item Name="CIFChannels.lvclass" Type="LVClass" URL="../../../CIFChannels/CIFChannels.lvclass"/>
+			<Item Name="ChannelCommon.lvlib" Type="Library" URL="../../../../ChannelCommon/ChannelCommon.lvlib"/>
+			<Item Name="CIF_CIPC_Chn.lvclass" Type="LVClass" URL="../../../CIF_CIPC_Chan/CIF_CIPC_Chn.lvclass"/>
+			<Item Name="CIF_CIPC_Chn_String.lvclass" Type="LVClass" URL="../../CIF_CIPC_Chn_String.lvclass"/>
+			<Item Name="CIFChannels.lvclass" Type="LVClass" URL="../../../../CIFChannels/CIFChannels.lvclass"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>

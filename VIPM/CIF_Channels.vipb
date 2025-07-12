@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2025-02-08 07:45:01" Modified_Date="2025-07-11 14:35:38" Creator="toddw" Comments="" ID="560eafdbb98df71089cb14e1e44b3a66">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2025-02-08 07:45:01" Modified_Date="2025-07-12 12:32:49" Creator="toddw" Comments="" ID="82066a946747d67e64e0e34791f06a80">
   <Library_General_Settings>
     <Package_File_Name>CIF_Foundation_lib_CIF_Channels</Package_File_Name>
-    <Library_Version>1.9.0.3</Library_Version>
+    <Library_Version>1.10.0.2</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..\src</Library_Source_Folder>
     <Library_Output_Folder>..\..\builds\VIPM</Library_Output_Folder>
@@ -32,7 +32,7 @@
       <Copyright/>
       <Packager>DOME Automation</Packager>
       <URL/>
-      <Release_Notes>Support new palette location of dependencies.  Removed NI Channels support (moved to new repo)</Release_Notes>
+      <Release_Notes>New utility VI for configuring FIFO.  String Tag channel added.  </Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -262,7 +262,7 @@
         <Path>..\src\CIFChannels\Dynamic</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>D6587D640790CFCC0D69D57742E4AC03</GUID>
+      <GUID>A3F1A728B1671A26A70610C65F04AD48</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -507,7 +507,7 @@
         <Path>..\src\CIFChannels\Dynamic\Get CIPC Channel.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>41ACFEFB1FDD2CFFA1337F9B4EB37C15</GUID>
+      <GUID>AB75F58767C37F870F53BEAFBA1B9C2F</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -556,7 +556,21 @@
         <Path>..\src\CIFChannels\Utilities\Reset Benchmarks.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>5AC586BE75C5E694463F8ABD034B3B10</GUID>
+      <Items_Data>
+        <Type>Item</Type>
+        <Sub_Palette_Index>-1</Sub_Palette_Index>
+        <NameSub_Menu_Name>Create FIFO Config.vi</NameSub_Menu_Name>
+        <Short_Name/>
+        <is_Merge_VI>false</is_Merge_VI>
+        <Position>
+          <Row>1</Row>
+          <Column>3</Column>
+        </Position>
+        <Icon>00000000</Icon>
+        <Path>..\src\ChannelCommon\Utilities\Create FIFO Config.vi</Path>
+        <VI_Title/>
+      </Items_Data>
+      <GUID>84108C78786D7ACAA0104D4767D18DF8</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -703,7 +717,7 @@
         <Path>..\src\CIPC_Channels\U64\Core\Write U64 Direct.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>A3DF210E4459AA3A1B383967E32DB0BF</GUID>
+      <GUID>492C8E28A8A5032A798F306E33CD70D7</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -794,7 +808,7 @@
         <Path>..\src\CIPC_Channels\FIFO_DAQ\CIPC DAQ FIFO.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>904E8C9BD212B840AC05647178FAD7F4</GUID>
+      <GUID>C82A213D5D99A1A898A69F6C16B57019</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
