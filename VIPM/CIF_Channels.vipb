@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2025-02-08 07:45:01" Modified_Date="2025-09-01 11:43:47" Creator="toddw" Comments="" ID="66ffa07b05c2f8fd72ed83ade6738572">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2025-02-08 07:45:01" Modified_Date="2025-09-03 16:01:52" Creator="toddw" Comments="" ID="96e1ce766d40eb9b74f28b05bdf08c42">
   <Library_General_Settings>
     <Package_File_Name>CIF_Foundation_lib_CIF_Channels</Package_File_Name>
-    <Library_Version>1.10.0.4</Library_Version>
+    <Library_Version>1.10.0.5</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..\src</Library_Source_Folder>
     <Library_Output_Folder>..\..\builds\VIPM</Library_Output_Folder>
@@ -32,7 +32,7 @@
       <Copyright/>
       <Packager>DOME Automation</Packager>
       <URL/>
-      <Release_Notes>Added function for configuring DAQ FIFO</Release_Notes>
+      <Release_Notes>Added additional inputs for configuring DAQ FIFO</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -262,7 +262,7 @@
         <Path>..\src\CIFChannels\Dynamic</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>33DF76C0F9F0B8CDECE1411D59A3AF86</GUID>
+      <GUID>218197A0ACC125AD478D4AE2635CCFD9</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -535,7 +535,7 @@
         <Path>..\src\Advanced</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>CEA2A3AF6EECF335B07C5AFBEDFB2029</GUID>
+      <GUID>5F0E25A1CCE9835544985F382A8C6F7F</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -612,7 +612,7 @@
         <Path>..\src\ChannelCommon\Utilities\Create CIPC_DAQ_FIFO Config.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>7F17954390E7E1BD0C71E5446A8C4D5C</GUID>
+      <GUID>2A1CC15802C480E745C84A10F5729D26</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -801,7 +801,7 @@
         <Path>..\src\CIPC_Channels\String\Core\Write String Direct.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>F4DF653847C45607116A18D6405BB294</GUID>
+      <GUID>E4EE3AEC4A058BBF04D7712A59DD326C</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -892,7 +892,7 @@
         <Path>..\src\CIPC_Channels\FIFO_DAQ\CIPC DAQ FIFO.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>668817AD4B0ABD3DFA910B6E65B9597B</GUID>
+      <GUID>F6E3CFF6E8A8B6F7393B7FD57E3C6C63</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -955,7 +955,7 @@
         <Path>..\src\CIFChannels\Dynamic\Remove Subscriber.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>A1C95A02B76A803B0B0C5BD8CE5E6719</GUID>
+      <GUID>754C0E3619A8572E3A0CA86E411FBEE1</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
