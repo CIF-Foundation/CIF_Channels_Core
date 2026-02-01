@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2025-02-08 07:45:01" Modified_Date="2025-12-20 17:43:33" Creator="toddw" Comments="" ID="b03697b76a67af63ab899b67cf4c5a5d">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2025-02-08 07:45:01" Modified_Date="2026-02-01 10:44:28" Creator="toddw" Comments="" ID="1028951374ca71ee5409d3627fa2c831">
   <Library_General_Settings>
     <Package_File_Name>CIF_Foundation_lib_CIF_Channels</Package_File_Name>
-    <Library_Version>1.10.1.6</Library_Version>
+    <Library_Version>1.11.0.7</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..\src</Library_Source_Folder>
     <Library_Output_Folder>..\..\builds\VIPM</Library_Output_Folder>
@@ -32,7 +32,7 @@
       <Copyright/>
       <Packager>DOME Automation</Packager>
       <URL/>
-      <Release_Notes>Error for type check was muted.  Will now report error on type mismatch.</Release_Notes>
+      <Release_Notes>Add support for reading enums to U64 Reader.</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -262,7 +262,7 @@
         <Path>..\src\CIFChannels\Dynamic</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>8451E237F25CACED9AFEA9F487AAB8A9</GUID>
+      <GUID>F5AD7C85B460685A934A9BCC8FF91BE8</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -535,7 +535,7 @@
         <Path>..\src\Advanced</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>6084A6D60EE0F93D96B730078E7A68EE</GUID>
+      <GUID>05DDF26B5DAD0047F20FBA0D7D7D0ECA</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -612,7 +612,7 @@
         <Path>..\src\ChannelCommon\Utilities\Create CIPC_DAQ_FIFO Config.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>F912F89F338D9D17538D9030A4D506B4</GUID>
+      <GUID>F0A7596CBB060D4FBD8FA38577DDB654</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -801,7 +801,7 @@
         <Path>..\src\CIPC_Channels\String\Core\Write String Direct.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>C0830A60D88DB8FE16361824BFD64C2E</GUID>
+      <GUID>75ABE8C2AEDF3CEC8CC17F9F2CE3C050</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -892,7 +892,7 @@
         <Path>..\src\CIPC_Channels\FIFO_DAQ\CIPC DAQ FIFO.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>DDC44CC324B3B52834D47D304FFC791C</GUID>
+      <GUID>6DCB47C928B8513267C3E32643D7630C</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -955,7 +955,7 @@
         <Path>..\src\CIFChannels\Dynamic\Remove Subscriber.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>DD2E31CF1DBEBFDD14EC2CE07D28F5F5</GUID>
+      <GUID>2735A904805481346BB1FAB2DD7DAB7D</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
