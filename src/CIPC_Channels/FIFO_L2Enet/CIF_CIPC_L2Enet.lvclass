@@ -1,8 +1,11 @@
-﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LVClass LVVersion="21008000">
 	<Property Name="NI.Lib.Icon" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!*0!!!*Q(C=\&gt;1^&lt;NN!%)&lt;BTU%+N\R")0A'=Q5B26SL=D_&amp;,[$721J7"F,/&amp;63L#83!.(-&amp;V?ZUB@8,Y6I3%E"K9M#&amp;3;^-@PPX;,GC6-?N^&amp;8NWL'^?&amp;2^/V\QW;&lt;\OJCC9`VWLKCET5E\\X_];^7C`6V`;L0^N`^JNL0Z4`58`&gt;=/84Q_[T`L0X&lt;^^?X^&gt;0V(],[(&gt;&amp;.33F+#YB3L&lt;^?30-G40-G40-G$0-C$0-C$0-C&gt;X-G&gt;X-G&gt;X-G.X-C.X-C.X-DL*"?ZS%8/KC34*R-FAS9$*)WB+0F)0)EH]31?&lt;J6Y%E`C34S*BS:+0)EH]33?R%-X*:\%EXA34_*BK**EH?2Y%A`$+`!%HM!4?!)05SLQ")"AMG$A9"!9#CK$C]!4?!)0FQI]A3@Q"*\!1\5#4_!*0)%H].#F6C6+-ZXE?"B'DM@R/"\(YXA97I\(]4A?R_.YG%[/R`%Y#'&gt;#:X!)=DIZ$:Q&lt;R_.Y_#@(YXA=D_.R0&amp;46%`*;G5ETH?2Y$)`B-4S'R`!QB!S0Y4%]BM@Q-+Q-D_%R0)&lt;(]$#6$)`B-4Q'R*C5[75-:H1U'BG"Y?'P&gt;IP65YK37*X^JTFP605.K,[RV$?-_E:1@]$K$U\^A;APN0I#KC_-_B&gt;7`S,K107*V1&gt;5&lt;[A$HXP+DL+BD*1V:56:5B;59?L[HRM?$A@N^XPN&gt;DNN.BO.Y[DV?KX6;K8F=KH&amp;9K&amp;B')ZPKW_=]X(T^FZ[YHL]=`^\P(M=RO]0Q`DTR`$]=P^LSN`KX[0-\[70]'\5&amp;\7TVTRL^!LQ/M)R!!!!!!</Property>
 	<Property Name="NI.Lib.SourceVersion" Type="Int">553680896</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
+	<Property Name="NI.Lib.Description" Type="Str">CIPC L2 Ethernet FIFO channel implementation.
+
+Copyright (C) 2026 CIF Foundation. Licensed under the GNU Lesser General Public License v3.0 (LGPL-3.0).</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Property Name="NI.LVClass.ClassNameVisibleInProbe" Type="Bool">true</Property>
 	<Property Name="NI.LVClass.DataValRefToSelfLimitedLibFlag" Type="Bool">true</Property>
