@@ -1,8 +1,11 @@
-﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LVClass LVVersion="21008000">
 	<Property Name="NI.Lib.Icon" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)Z!!!*Q(C=\&gt;3RE&gt;J!&amp;-&lt;R$Y]$JX4AI988!L%T/P#]&amp;EC6G1+=P!)O9=;B)S,H8QOU1!PYL_8&gt;_?SR5?+&lt;O?"7,%D@3LM`L2:*IXS1XOO[6$\&gt;,&lt;`;Z\XR?@T[P@V:U`5@\@02L@(_^8`N`]`ROW(:PV2UN\SVP\7`\P&lt;FZ4UN`QF?NECL);7;7N3ERLC\K]F.&lt;H+4G^TE26\E26\E26\E3:\E3:\E3:\E12\E12\E12\E9S-8O=B&amp;TKS9Q=V!JF04A4E:CMS8]2C0]2A0BT)?YT%?YT%?4J(R')`R')`R=*G-RXC-RXC-B[['R'-DRW-]&gt;+`#5XA+4_%J0!SJQF-!CM'+DIN/9+BI,(9+4_%J0/SK]"3?QF.Y#A`.+DS&amp;J`!5HM,$*7.7;GDGD2Q0X3DR**\%EXA3$VUL]33?R*.Y%A`$+@%EHA32$*BU$E(*2=E*S5(C34T]+0%EHM34?")04?-*Z:C:74.PZ(A#4_!*0)%H].#&amp;!E`A#4S"*`$1L1*0Y!E]A3@Q-*1#4_!*0!%E'*4B&amp;8178"C=&amp;!3"B]^9,4'?5AV*D+X`GL?&amp;KF[![I7F8D$KB;"_Q/I(JXYA[IF74["[9N1XL,Y2.6!^M,J$^9G[](WGHKB([I'[J_[I7_K'OJYP`=]H8CY8H=^HH5YH(9^((1Y(\@&gt;\\89\&lt;&lt;&gt;&lt;&lt;49&lt;L&gt;@LJ\@62\:&lt;74W_FS&lt;WJ]]0K_HL^^8UZ2O`$`0RDTF`;H_"?HMPP9:XI^\J_OQVTRT^"&amp;`)?PQ!!!!!</Property>
 	<Property Name="NI.Lib.SourceVersion" Type="Int">553680896</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.26</Property>
+	<Property Name="NI.Lib.Description" Type="Str">Base class for CIF channel communication between plugins.
+
+Copyright (C) 2026 CIF Foundation. Licensed under the GNU Lesser General Public License v3.0 (LGPL-3.0).</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Property Name="NI.LVClass.ClassNameVisibleInProbe" Type="Bool">true</Property>
 	<Property Name="NI.LVClass.DataValRefToSelfLimitedLibFlag" Type="Bool">true</Property>

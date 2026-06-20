@@ -1,8 +1,11 @@
-﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LVClass LVVersion="21008000">
 	<Property Name="NI.Lib.Icon" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!*%!!!*Q(C=\:5R&lt;BMR%%7`AR2J6;9)%/A+5[88&amp;83#"(-&amp;N3Z6'WY_Y$;.&lt;G$I#H-&amp;85&amp;8E.^SRV9#"V)4!SZ-;H;Z@]C:NS38EE&lt;Z)HX7[6J:8#S4@_YU7N0PV+X2/+OP,IO`2ZUPZ`(`^L];`Z,``$DHHP.@ZL^7&gt;,&amp;]_$`]\^N`@8P@8P])XL:).Y-5+]R99D(?\F4IB6\IB6\IB7ZUIRP&gt;[%9X?K)H?K)H?K)H?K!(?K!(?K!(_KDI1B?[U*G6)HG2K!B;"#A[A[,C5P!50!60Q=/D#J[#J_!J?!I?OKDA+8A+HI+HY''9#J[#J_!J?!I?1AW3'B5&gt;HI+(]$)]BM@Q'"\$1UI:(A.AEJH!*AA9-E\4-$S'R`$1F/%R0)&lt;(]"A?X$)]BM@Q'"\$QZ!R+RYU5U7(BT"+?"+?B#@B38A)L91HY5FY%J[%BX2+?"+?"#**G!1(1=GAJ%0SE0!E0.S5]#1]#5`#E`$A'CO59W9GGKGCQR0Q"$Q"4]!4]""#!5`!%`!%0!%0928Q"$Q"4]!4]*"+!5`!%`!%)%&amp;3UCM)&amp;AQ-/A6#Q-.P\*99K_2"%K0WJTFP605'6']M^9:2&lt;Q4V!KM84LUA[IF74["[9N1PL(Y2.;![M4KAOK//8!`9(NNB7WS$L&lt;%6NM17U^$`X0&amp;Y0/JQ/'C`XWOXWWG\X7KTW7C^8GOV7GGZ8)I`Y:@4[DNV,D@0Z^)N\9&gt;@D^`O\H]P\OY@PU\XBZ]`$J0_\(],G]_F^X!W[J./@RTTT.%49F"H@!!!!!!</Property>
 	<Property Name="NI.Lib.SourceVersion" Type="Int">553680896</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.1</Property>
+	<Property Name="NI.Lib.Description" Type="Str">CIPC channel implementation for Double (DBL) data types.
+
+Copyright (C) 2026 CIF Foundation. Licensed under the GNU Lesser General Public License v3.0 (LGPL-3.0).</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Property Name="NI.LVClass.ClassNameVisibleInProbe" Type="Bool">true</Property>
 	<Property Name="NI.LVClass.DataValRefToSelfLimitedLibFlag" Type="Bool">true</Property>
