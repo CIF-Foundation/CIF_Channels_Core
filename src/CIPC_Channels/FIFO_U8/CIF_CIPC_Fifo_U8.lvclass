@@ -36,29 +36,29 @@ Copyright (C) 2026 CIF Foundation. Licensed under the GNU Lesser General Public 
 			<Property Name="NI.ClassItem.Property.ShortName" Type="Str">Payload</Property>
 			<Property Name="NI.ClassItem.Property.SortKey" Type="Int">-1</Property>
 			<Item Name="Read Payload.vi" Type="VI" URL="../Accessors/Read Payload.vi">
-				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;&gt;!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!!V!"1!(4H6N:8*J9Q!51%!!!@````]!"1&gt;198FM&lt;W&amp;E!$J!=!!?!!!;'%.*2F^$36"$8U:J:G^@64AO&lt;(:D&lt;'&amp;T=Q!!&amp;%.*2F^$36"$8U:J:G^@64AA&lt;X6U!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!$B!=!!?!!!;'%.*2F^$36"$8U:J:G^@64AO&lt;(:D&lt;'&amp;T=Q!!%U.*2F^$36"$8U:J:G^@64AA;7Y!91$Q!!Q!!Q!%!!9!"Q!%!!1!"!!%!!A!"!!%!!E#!!"Y!!!.#!!!!!!!!!E!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!A!!!!!!!!!!!!!!"!!!!U!!!!-!!!!!!!!!!!!!!%!#A!!!!!</Property>
+				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;&gt;!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!!V!"1!(4H6N:8*J9Q!51%!!!@````]!"1&gt;198FM&lt;W&amp;E!$J!=!!?!!!;'%.*2F^$36"$8U:J:G^@64AO&lt;(:D&lt;'&amp;T=Q!!&amp;%.*2F^$36"$8U:J:G^@64AA&lt;X6U!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!$B!=!!?!!!;'%.*2F^$36"$8U:J:G^@64AO&lt;(:D&lt;'&amp;T=Q!!%U.*2F^$36"$8U:J:G^@64AA;7Y!91$Q!!Q!!Q!%!!9!"Q!%!!1!"!!%!!A!"!!%!!E#!!"Y!!!.#!!!!!!!!!E!!!!*!!!!!!!!!!!!!!!!!!!!!!!!!!A!!!!!!!!!!!!!!"!!!!U!!!!-!!!!!!!!!!!!!!%!#A!!!!!</Property>
 				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 				<Property Name="NI.ClassItem.Flags" Type="Int">16777216</Property>
 				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-				<Property Name="NI.ClassItem.State" Type="Int">44040192</Property>
+				<Property Name="NI.ClassItem.State" Type="Int">10756096</Property>
 			</Item>
 			<Item Name="Write Payload.vi" Type="VI" URL="../Accessors/Write Payload.vi">
-				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;&gt;!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$J!=!!?!!!;'%.*2F^$36"$8U:J:G^@64AO&lt;(:D&lt;'&amp;T=Q!!&amp;%.*2F^$36"$8U:J:G^@64AA&lt;X6U!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!!V!"1!(4H6N:8*J9Q!51%!!!@````]!"Q&gt;198FM&lt;W&amp;E!$B!=!!?!!!;'%.*2F^$36"$8U:J:G^@64AO&lt;(:D&lt;'&amp;T=Q!!%U.*2F^$36"$8U:J:G^@64AA;7Y!91$Q!!Q!!Q!%!!1!"1!%!!1!"!!%!!9!"!!)!!E#!!"Y!!!.#!!!!!!!!!!!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!A!!!!!!!!#%!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!#A!!!!!</Property>
+				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;&gt;!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$J!=!!?!!!;'%.*2F^$36"$8U:J:G^@64AO&lt;(:D&lt;'&amp;T=Q!!&amp;%.*2F^$36"$8U:J:G^@64AA&lt;X6U!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!!V!"1!(4H6N:8*J9Q!51%!!!@````]!"Q&gt;198FM&lt;W&amp;E!$B!=!!?!!!;'%.*2F^$36"$8U:J:G^@64AO&lt;(:D&lt;'&amp;T=Q!!%U.*2F^$36"$8U:J:G^@64AA;7Y!91$Q!!Q!!Q!%!!1!"1!%!!1!"!!%!!9!"!!)!!E#!!"Y!!!.#!!!!!!!!!!!!!!*!!!!!!!!!!!!!!!!!!!!!!!!!!A!!!!!!!!!%!!!!"!!!!U!!!!-!!!!!!!!!!!!!!%!#A!!!!!</Property>
 				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 				<Property Name="NI.ClassItem.Flags" Type="Int">16777216</Property>
 				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-				<Property Name="NI.ClassItem.State" Type="Int">44040192</Property>
+				<Property Name="NI.ClassItem.State" Type="Int">10756096</Property>
 			</Item>
 		</Item>
 	</Item>
 	<Item Name="Core" Type="Folder">
 		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Item Name="Create.vi" Type="VI" URL="../Core/Create.vi">
-			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'N!!!!$1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$"!=!!?!!!;'%.*2F^$36"$8U:J:G^@64AO&lt;(:D&lt;'&amp;T=Q!!#U.*2E:*2E]A&lt;X6U!&amp;5!]1!!!!!!!!!#%U.*2E.I97ZO:7RT,GRW9WRB=X-.2'FS:7.U;7^O,G.U&lt;!!L1"5!!AF1&gt;7*M;8.I:8)+5X6C=W.S;7*F=A!!#52J=G6D&gt;'FP&lt;A!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!!V!"1!(4H6N:8*J9Q!A1%!!!@````]!#"*$&gt;8.U&lt;WUA1W^O:GFH)%2B&gt;'%!!!Z!-0````]%4G&amp;N:1!!-%"Q!"Y!!"I91UF'8U.*5%.@2GFG&lt;V^6/#ZM&gt;G.M98.T!!!+1UF'2EF'4S"J&lt;A!!6!$Q!!Q!!Q!%!!1!"1!%!!1!"!!'!!=!#1!+!!M$!!"Y!!!.#!!!!!!!!!!!!!#.#Q!!!!!!!!!!!!!!!!!!%!!!!!I!!!))!!!#%!!!!*)!!!!!!1!-!!!!!!</Property>
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'N!!!!$1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$"!=!!?!!!;'%.*2F^$36"$8U:J:G^@64AO&lt;(:D&lt;'&amp;T=Q!!#U.*2E:*2E]A&lt;X6U!&amp;5!]1!!!!!!!!!#%U.I97ZO:7R$&lt;WVN&lt;WYO&lt;(:M;7).2'FS:7.U;7^O,G.U&lt;!!L1"5!!AF1&gt;7*M;8.I:8)+5X6C=W.S;7*F=A!!#52J=G6D&gt;'FP&lt;A!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!!V!"1!(4H6N:8*J9Q!A1%!!!@````]!#"*$&gt;8.U&lt;WUA1W^O:GFH)%2B&gt;'%!!!Z!-0````]%4G&amp;N:1!!-%"Q!"Y!!"I91UF'8U.*5%.@2GFG&lt;V^6/#ZM&gt;G.M98.T!!!+1UF'2EF'4S"J&lt;A!!6!$Q!!Q!!Q!%!!1!"1!%!!1!"!!'!!=!#1!+!!M$!!"Y!!!.#!!!!!!!!!!!!!#.#Q!!!!!!!!!!!!!!!!!!%!!!!!I!!!))!!!#%!!!!*)!!!!!!1!-!!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 			<Property Name="NI.ClassItem.Flags" Type="Int">16777344</Property>
 			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
@@ -84,7 +84,7 @@ Copyright (C) 2026 CIF Foundation. Licensed under the GNU Lesser General Public 
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 			<Property Name="NI.ClassItem.State" Type="Int">279715860</Property>
 		</Item>
-		<Item Name="Read External Payload.vi" Type="VI" URL="../Core/Read External Payload.vi">
+		<Item Name="Read U8 External Payload.vi" Type="VI" URL="../Core/Read U8 External Payload.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)$!!!!&amp;1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!%%!B#H2J&lt;76E)'^V&gt;$]!!!V!"1!(4H6N:8*J9Q!71%!!!@````]!"1B%982B)'^V&gt;!!!-%"Q!"Y!!"I91UF'8U.*5%.@2GFG&lt;V^6/#ZM&gt;G.M98.T!!!,1UF'2EF'4S"P&gt;81!$5!)!!:-:7ZH&gt;'A!!!F!"!!#6$!!!!N!"!!&amp;6&amp;^0&gt;81!#U!%!!258V2Y!!!*1!A!!U.U=A!.1!5!"U.M&lt;W.L351!3A$R!!!!!!!!!!)41WBB&lt;GZF&lt;%.P&lt;7VP&lt;CZM&gt;GRJ9A^'35:0)%BF972F=CZD&gt;'Q!(E"1!!9!#!!*!!I!#Q!-!!U'3'6B:'6S!!!%!!!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!41!-!$&amp;2J&lt;76P&gt;81A+'VT+1!!&amp;%"!!!(`````!!5(2'&amp;U93"J&lt;A!Q1(!!(A!!'BB$35:@1UF11V^';7:P8V5Y,GRW9WRB=X-!!!J$35:'35:0)'FO!!"5!0!!$!!$!!1!"A!(!!Y!$Q!0!!]!%!!2!")!%Q-!!(A!!!U)!!!*!!!!$1I!!)U,!!!*!!!!!!!!!!!!!!!!!!!!#A!!!!I!!!%+!!!!EA!!!!!"!"1!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 			<Property Name="NI.ClassItem.Flags" Type="Int">16777347</Property>
@@ -102,14 +102,14 @@ Copyright (C) 2026 CIF Foundation. Licensed under the GNU Lesser General Public 
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 			<Property Name="NI.ClassItem.State" Type="Int">8396816</Property>
 		</Item>
-		<Item Name="Write External Payload.vi" Type="VI" URL="../Core/Write External Payload.vi">
-			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'9!!!!$A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!%%!B#H2J&lt;76E)'^V&gt;$]!!!V!"1!(4H6N:8*J9Q!A1%!!!@````]!"2*6/#"8;82I)%BF972F=C"P&gt;81!!$"!=!!?!!!;'%.*2F^$36"$8U:J:G^@64AO&lt;(:D&lt;'&amp;T=Q!!#U.*2E:*2E]A&lt;X6U!!1!!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!".!!Q!-6'FN:7^V&gt;#!I&lt;8-J!!!?1%!!!@````]!"2&amp;6/#"8;82I)%BF972F=C"J&lt;A!Q1(!!(A!!'BB$35:@1UF11V^';7:P8V5Y,GRW9WRB=X-!!!J$35:'35:0)'FO!!"B!0!!$!!$!!1!"A!(!!A!#!!)!!A!#1!+!!M!$!-!!(A!!!U)!!!*!!!!$1I!!!U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!I!!!)+!!!!%A!!$1!!!!Q!!!!!!!!!!!!!!1!.!!!!!!</Property>
+		<Item Name="Write U8 External Payload.vi" Type="VI" URL="../Core/Write U8 External Payload.vi">
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!',!!!!$A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!%%!B#H2J&lt;76E)'^V&gt;$]!!!V!"1!(4H6N:8*J9Q!A1%!!!@````]!"2*6/#"8;82I)%BF972F=C"P&gt;81!!$"!=!!?!!!;'%.*2F^$36"$8U:J:G^@64AO&lt;(:D&lt;'&amp;T=Q!!#U.*2E:*2E]A&lt;X6U!!1!!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!".!!Q!-6'FN:7^V&gt;#!I&lt;8-J!!!?1%!!!@````]!"2&amp;6/#"8;82I)%BF972F=C"J&lt;A!Q1(!!(A!!'BB$35:@1UF11V^';7:P8V5Y,GRW9WRB=X-!!!J$35:'35:0)'FO!!"5!0!!$!!$!!1!"A!(!!A!#!!)!!A!#1!+!!M!$!-!!(A!!!U)!!!*!!!!$1I!!)U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!I!!!)3!!!!EA!!!!!"!!U!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-			<Property Name="NI.ClassItem.Flags" Type="Int">16777216</Property>
-			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+			<Property Name="NI.ClassItem.Flags" Type="Int">50331776</Property>
+			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
 			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-			<Property Name="NI.ClassItem.State" Type="Int">36175888</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">268967952</Property>
 		</Item>
 	</Item>
 	<Item Name="SubVIs" Type="Folder">

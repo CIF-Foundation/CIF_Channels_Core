@@ -13,7 +13,10 @@ Copyright (C) 2026 CIF Foundation. Licensed under the GNU Lesser General Public 
 	<Item Name="typedef" Type="Folder">
 		<Item Name="Benchmark Stats.ctl" Type="VI" URL="../typedef/Benchmark Stats.ctl"/>
 		<Item Name="Channel Pattern.ctl" Type="VI" URL="../typedef/Channel Pattern.ctl"/>
+		<Item Name="Channel State.ctl" Type="VI" URL="../typedef/Channel State.ctl"/>
 		<Item Name="Datatype Waveform.ctl" Type="VI" URL="../typedef/Datatype Waveform.ctl"/>
+		<Item Name="Direction.ctl" Type="VI" URL="../typedef/Direction.ctl"/>
+		<Item Name="Disconnect Behavior.ctl" Type="VI" URL="../typedef/Disconnect Behavior.ctl"/>
 		<Item Name="Errors.ctl" Type="VI" URL="../typedef/Errors.ctl"/>
 		<Item Name="FIFO Config.ctl" Type="VI" URL="../typedef/FIFO Config.ctl"/>
 		<Item Name="FIFO Flags.ctl" Type="VI" URL="../typedef/FIFO Flags.ctl"/>
@@ -41,7 +44,6 @@ Copyright (C) 2026 CIF Foundation. Licensed under the GNU Lesser General Public 
 		<Item Name="Unflatten Header.vi" Type="VI" URL="../Utilities/Unflatten Header.vi"/>
 		<Item Name="Add Header Bytes.vi" Type="VI" URL="../Utilities/Add Header Bytes.vi"/>
 		<Item Name="Remove Header Bytes.vi" Type="VI" URL="../Utilities/Remove Header Bytes.vi"/>
-		<Item Name="Create New FIFO Instance Configuration.vi" Type="VI" URL="../Utilities/Create New FIFO Instance Configuration.vi"/>
 		<Item Name="Get Waveform Bytes.vi" Type="VI" URL="../Utilities/Get Waveform Bytes.vi"/>
 	</Item>
 </Library>

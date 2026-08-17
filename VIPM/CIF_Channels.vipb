@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2025-02-08 07:45:01" Modified_Date="2026-08-15 23:52:43" Creator="toddw" Comments="" ID="07452558dba72dd9c8ff1d90a80c3617">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2025-02-08 07:45:01" Modified_Date="2026-08-16 15:24:29" Creator="toddw" Comments="" ID="258b70997526884d4665ca2f57195dda">
   <Library_General_Settings>
     <Package_File_Name>CIF_Foundation_lib_CIF_Channels</Package_File_Name>
-    <Library_Version>3.0.1.2</Library_Version>
+    <Library_Version>3.0.1.3</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..\src</Library_Source_Folder>
     <Library_Output_Folder>..\..\builds\VIPM</Library_Output_Folder>
@@ -264,7 +264,7 @@
         <Path>..\src\CIFChannels\Dynamic</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>60F606330810A8A3AF1F5E414493D66C</GUID>
+      <GUID>1FE388FD44E72876C0006591B4A939E1</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -470,34 +470,6 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Add Subscriber.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>3</Row>
-          <Column>5</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\src\CIFChannels\Dynamic\Add Subscriber.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Remove Subscriber.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>3</Row>
-          <Column>6</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\src\CIFChannels\Dynamic\Remove Subscriber.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
         <NameSub_Menu_Name>Read String.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
@@ -537,7 +509,35 @@
         <Path>..\src\Advanced</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>C67B98580F459228A689D4D7BAEEBA2E</GUID>
+      <Items_Data>
+        <Type>Item</Type>
+        <Sub_Palette_Index>-1</Sub_Palette_Index>
+        <NameSub_Menu_Name>Read U8 External Payload.vi</NameSub_Menu_Name>
+        <Short_Name/>
+        <is_Merge_VI>false</is_Merge_VI>
+        <Position>
+          <Row>3</Row>
+          <Column>5</Column>
+        </Position>
+        <Icon>00000000</Icon>
+        <Path>..\src\CIFChannels\Dynamic\Read U8 External Payload.vi</Path>
+        <VI_Title/>
+      </Items_Data>
+      <Items_Data>
+        <Type>Item</Type>
+        <Sub_Palette_Index>-1</Sub_Palette_Index>
+        <NameSub_Menu_Name>Write U8 External Payload.vi</NameSub_Menu_Name>
+        <Short_Name/>
+        <is_Merge_VI>false</is_Merge_VI>
+        <Position>
+          <Row>3</Row>
+          <Column>6</Column>
+        </Position>
+        <Icon>00000000</Icon>
+        <Path>..\src\CIFChannels\Dynamic\Write U8 External Payload.vi</Path>
+        <VI_Title/>
+      </Items_Data>
+      <GUID>1D2D5437A28115087597E2E7FB71367B</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -614,7 +614,7 @@
         <Path>..\src\ChannelCommon\Utilities\Create CIPC_DAQ_FIFO Config.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>18A04E617D39751761FECB6FB3A4F079</GUID>
+      <GUID>7FAAB3CEDDF06452D21511DC018BDF0C</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -803,7 +803,7 @@
         <Path>..\src\CIPC_Channels\String\Core\Write String Direct.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>C76377D0C7635EB08CA85B867F78082B</GUID>
+      <GUID>038BBEA86FBC2F923D9B2E078A182B30</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -894,7 +894,7 @@
         <Path>..\src\CIPC_Channels\FIFO_DAQ\CIPC DAQ FIFO.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>10C73FCAFBFACEF78896A3C497F442FE</GUID>
+      <GUID>0C4AF8A0E2E63AD915E117655A4F9E36</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -929,35 +929,7 @@
         <Path>..\src\CIFChannels\Dynamic\Get CIPC Channel.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Add Subscriber.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>2</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\src\CIFChannels\Dynamic\Add Subscriber.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Remove Subscriber.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>3</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\src\CIFChannels\Dynamic\Remove Subscriber.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <GUID>2D220864872B72A5EF7D2A58B18092E9</GUID>
+      <GUID>B8EE87FFD32F06D4D6AE6EA772B35653</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>

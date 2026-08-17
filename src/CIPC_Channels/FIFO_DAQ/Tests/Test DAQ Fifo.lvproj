@@ -100,7 +100,6 @@ AddOutputFilter chunkFilter
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Assert Error Cluster Type.vim" Type="VI" URL="/&lt;vilib&gt;/Utility/TypeAssert/Assert Error Cluster Type.vim"/>
-				<Item Name="Boolean_CIF_U.lvlib" Type="Library" URL="/&lt;vilib&gt;/CIF Foundation/CIF Utilities/Boolean/Boolean_CIF_U.lvlib"/>
 				<Item Name="CIF_NI_CIPC.lvlib" Type="Library" URL="/&lt;vilib&gt;/CIF Foundation/CIF CIPC/CIF_NI_CIPC.lvlib"/>
 				<Item Name="Create NI GUID.vi" Type="VI" URL="/&lt;vilib&gt;/string/Create NI GUID.vi"/>
 				<Item Name="DataTypes_CIF_U.lvlib" Type="Library" URL="/&lt;vilib&gt;/CIF Foundation/CIF Utilities/DataTypes/DataTypes_CIF_U.lvlib"/>

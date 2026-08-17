@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version='1.0' encoding='UTF-8'?>
 <Project Type="Project" LVVersion="21008000">
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Property Name="NI.Project.Description" Type="Str">Test project for CIPC Universal FIFO channel functionality.
