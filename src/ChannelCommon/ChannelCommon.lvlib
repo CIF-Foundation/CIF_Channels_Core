@@ -18,6 +18,7 @@ Copyright (C) 2026 CIF Foundation. Licensed under the GNU Lesser General Public 
 		<Item Name="Direction.ctl" Type="VI" URL="../typedef/Direction.ctl"/>
 		<Item Name="Disconnect Behavior.ctl" Type="VI" URL="../typedef/Disconnect Behavior.ctl"/>
 		<Item Name="Errors.ctl" Type="VI" URL="../typedef/Errors.ctl"/>
+		<Item Name="FIFO Config Extended.ctl" Type="VI" URL="../typedef/FIFO Config Extended.ctl"/>
 		<Item Name="FIFO Config.ctl" Type="VI" URL="../typedef/FIFO Config.ctl"/>
 		<Item Name="FIFO Flags.ctl" Type="VI" URL="../typedef/FIFO Flags.ctl"/>
 		<Item Name="FIFO Header.ctl" Type="VI" URL="../typedef/FIFO Header.ctl"/>
@@ -41,6 +42,7 @@ Copyright (C) 2026 CIF Foundation. Licensed under the GNU Lesser General Public 
 		<Item Name="Flatten Header.vi" Type="VI" URL="../Utilities/Flatten Header.vi"/>
 		<Item Name="Add Error.vi" Type="VI" URL="../Utilities/Add Error.vi"/>
 		<Item Name="Add Error Core.vi" Type="VI" URL="../Utilities/Add Error Core.vi"/>
+		<Item Name="Create FIFO Config Extended.vi" Type="VI" URL="../Utilities/Create FIFO Config Extended.vi"/>
 		<Item Name="Unflatten Header.vi" Type="VI" URL="../Utilities/Unflatten Header.vi"/>
 		<Item Name="Add Header Bytes.vi" Type="VI" URL="../Utilities/Add Header Bytes.vi"/>
 		<Item Name="Remove Header Bytes.vi" Type="VI" URL="../Utilities/Remove Header Bytes.vi"/>
