@@ -17,15 +17,13 @@ Copyright (C) 2026 CIF Foundation. Licensed under the GNU Lesser General Public 
 		<Item Name="CIF_Iceoryx Channel Performance Test.vi" Type="VI" URL="../CIF_Iceoryx Channel Performance Test.vi"/>
 		<Item Name="CIF_Iceoryx_BB.lvclass" Type="LVClass" URL="../../CIF_Iceoryx_BB/CIF_Iceoryx_BB.lvclass"/>
 		<Item Name="CIF_Iceoryx_Chn.lvclass" Type="LVClass" URL="../../CIF_Iceoryx_Chan/CIF_Iceoryx_Chn.lvclass"/>
+		<Item Name="CIF_Iceoryx_Fifo_DAQ.lvclass" Type="LVClass" URL="../../FIFO_DAQ/CIF_Iceoryx_Fifo_DAQ.lvclass"/>
 		<Item Name="CIF_Iceoryx_String_Tag Update Test Cases.vi" Type="VI" URL="../../String/Tests/CIF_Iceoryx_String_Tag Update Test Cases.vi"/>
 		<Item Name="CIF_Iceoryx_Tag Update Test Cases.vi" Type="VI" URL="../CIF_Iceoryx_Tag Update Test Cases.vi"/>
+		<Item Name="DAQ Performance Test.vi" Type="VI" URL="../../FIFO_DAQ/Tests/DAQ Performance Test.vi"/>
 		<Item Name="Iceoryx Channel Utilities.lvlib" Type="Library" URL="../../Iceorxy Utilities/Iceoryx Channel Utilities.lvlib"/>
-		<Item Name="L2Enet Performance Test.vi" Type="VI" URL="../../FIFO_L2Enet/Tests/L2Enet Performance Test.vi"/>
-		<Item Name="Test Comm CAN.vi" Type="VI" URL="../../FIFO_CAN/Tests/Test Comm CAN.vi"/>
-		<Item Name="Test Comm L2.vi" Type="VI" URL="../../FIFO_L2Enet/Tests/Test Comm L2.vi"/>
-		<Item Name="Test Comm Universal.vi" Type="VI" URL="../../FIFO_Universal/Tests/Test Comm Universal.vi"/>
 		<Item Name="Test Configuration Flatten.vi" Type="VI" URL="../Test Configuration Flatten.vi"/>
-		<Item Name="Test Type Check L2.vi" Type="VI" URL="../../FIFO_L2Enet/Tests/Test Type Check L2.vi"/>
+		<Item Name="Test DAQ Comm.vi" Type="VI" URL="../../FIFO_DAQ/Tests/Test DAQ Comm.vi"/>
 		<Item Name="Test U8 Backpressure.vi" Type="VI" URL="../../PCAP_Universal/Tests/Test U8 Backpressure.vi"/>
 		<Item Name="Test U8 Change FIFO Size.vi" Type="VI" URL="../../PCAP_Universal/Tests/Test U8 Change FIFO Size.vi"/>
 		<Item Name="Test U8 Comm.vi" Type="VI" URL="../../PCAP_Universal/Tests/Test U8 Comm.vi"/>
@@ -35,7 +33,7 @@ Copyright (C) 2026 CIF Foundation. Licensed under the GNU Lesser General Public 
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Assert Error Cluster Type.vim" Type="VI" URL="/&lt;vilib&gt;/Utility/TypeAssert/Assert Error Cluster Type.vim"/>
-				<Item Name="CIF_NI_CIPC.lvlib" Type="Library" URL="/&lt;vilib&gt;/CIF Foundation/CIF CIPC/CIF_NI_CIPC.lvlib"/>
+				<Item Name="Assert Fixed-Point Numeric Type.vim" Type="VI" URL="/&lt;vilib&gt;/Utility/TypeAssert/Assert Fixed-Point Numeric Type.vim"/>
 				<Item Name="Clear Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Clear Errors.vi"/>
 				<Item Name="Create NI GUID.vi" Type="VI" URL="/&lt;vilib&gt;/string/Create NI GUID.vi"/>
 				<Item Name="DataTypes_CIF_U.lvlib" Type="Library" URL="/&lt;vilib&gt;/CIF Foundation/CIF Utilities/DataTypes/DataTypes_CIF_U.lvlib"/>
@@ -46,6 +44,8 @@ Copyright (C) 2026 CIF Foundation. Licensed under the GNU Lesser General Public 
 				<Item Name="High Resolution Relative Seconds.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/High Resolution Relative Seconds.vi"/>
 				<Item Name="Iceoryx.lvlib" Type="Library" URL="/&lt;vilib&gt;/CIF Foundation/CIF Iceoryx/Iceoryx.lvlib"/>
 				<Item Name="NI_Data Type.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/Data Type/NI_Data Type.lvlib"/>
+				<Item Name="PCAP DAQ Core.lvlib" Type="Library" URL="/&lt;vilib&gt;/CIF Foundation/CIF PCAP DAQ/PCAP DAQ Core.lvlib"/>
+				<Item Name="pcap_Parse_Build_CIF.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/CIF Foundation/CIF PCAP Parse and Build/pcap_Parse_Build_CIF.lvclass"/>
 				<Item Name="Space Constant.vi" Type="VI" URL="/&lt;vilib&gt;/dlg_ctls.llb/Space Constant.vi"/>
 				<Item Name="Stats_CIF_U.lvlib" Type="Library" URL="/&lt;vilib&gt;/CIF Foundation/CIF Utilities/Statistics/Stats_CIF_U.lvlib"/>
 				<Item Name="Time_CIF_U.lvlib" Type="Library" URL="/&lt;vilib&gt;/CIF Foundation/CIF Utilities/Time/Time_CIF_U.lvlib"/>
@@ -53,19 +53,15 @@ Copyright (C) 2026 CIF Foundation. Licensed under the GNU Lesser General Public 
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
 			<Item Name="ChannelCommon.lvlib" Type="Library" URL="../../../ChannelCommon/ChannelCommon.lvlib"/>
-			<Item Name="CIF_Iceoryx_CAN.lvclass" Type="LVClass" URL="../../FIFO_CAN/CIF_Iceoryx_CAN.lvclass"/>
 			<Item Name="CIF_Iceoryx_Chn_Double.lvclass" Type="LVClass" URL="../../Double/CIF_Iceoryx_Chn_Double.lvclass"/>
 			<Item Name="CIF_Iceoryx_Chn_I64.lvclass" Type="LVClass" URL="../../I64/CIF_Iceoryx_Chn_I64.lvclass"/>
 			<Item Name="CIF_Iceoryx_Chn_String.lvclass" Type="LVClass" URL="../../String/CIF_Iceoryx_Chn_String.lvclass"/>
 			<Item Name="CIF_Iceoryx_Chn_U64.lvclass" Type="LVClass" URL="../../U64/CIF_Iceoryx_Chn_U64.lvclass"/>
-			<Item Name="CIF_Iceoryx_L2Enet.lvclass" Type="LVClass" URL="../../FIFO_L2Enet/CIF_Iceoryx_L2Enet.lvclass"/>
 			<Item Name="CIF_Iceoryx_PCAP_Universal.lvclass" Type="LVClass" URL="../../PCAP_Universal/CIF_Iceoryx_PCAP_Universal.lvclass"/>
-			<Item Name="CIF_Iceoryx_Universal.lvclass" Type="LVClass" URL="../../FIFO_Universal/CIF_Iceoryx_Universal.lvclass"/>
 			<Item Name="CIFChannels.lvclass" Type="LVClass" URL="../../../CIFChannels/CIFChannels.lvclass"/>
 			<Item Name="kernel32.dll" Type="Document" URL="kernel32.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="trash_Core Write U8 FIFO.vi" Type="VI" URL="../../PCAP_Universal/SubVIs/trash_Core Write U8 FIFO.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
