@@ -42,13 +42,13 @@ Copyright (C) 2026 CIF Foundation. Licensed under the GNU Lesser General Public 
 			<Property Name="NI.ClassItem.State" Type="Int">268967952</Property>
 		</Item>
 		<Item Name="Write Double Direct.vi" Type="VI" URL="../Core/Write Double Direct.vi">
-			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%`!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$:!=!!?!!!A(E.*2F^*9W6P=HFY8U.I&lt;F^%&lt;X6C&lt;'5O&lt;(:D&lt;'&amp;T=Q!!#E.*2F2B:S"P&gt;81!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!#U!+!!2%982B!!!U1(!!(A!!)"Z$35:@37.F&lt;X*Z?&amp;^$;'Z@2'^V9GRF,GRW9WRB=X-!!!F$35:597=A;7Y!91$Q!!Q!!Q!%!!1!"1!%!!1!"!!%!!9!"!!(!!A$!!"Y!!!.#!!!!!!!!!!!!!!*!!!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!!#!!!!"!!!!U!!!!-!!!!!!!!!!!!!!%!#1!!!!!</Property>
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%`!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$:!=!!?!!!A(E.*2F^*9W6P=HFY8U.I&lt;F^%&lt;X6C&lt;'5O&lt;(:D&lt;'&amp;T=Q!!#E.*2F2B:S"P&gt;81!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!#U!+!!2%982B!!!U1(!!(A!!)"Z$35:@37.F&lt;X*Z?&amp;^$;'Z@2'^V9GRF,GRW9WRB=X-!!!F$35:597=A;7Y!91$Q!!Q!!Q!%!!1!"1!%!!1!"!!%!!9!"!!(!!A$!!"Y!!!.#!!!!!!!!!!!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!!#!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!#1!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 			<Property Name="NI.ClassItem.Flags" Type="Int">16777216</Property>
 			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-			<Property Name="NI.ClassItem.State" Type="Int">1342713872</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">8396816</Property>
 		</Item>
 	</Item>
 	<Item Name="Create Specific.vi" Type="VI" URL="../Core/Create Specific.vi">
@@ -58,7 +58,7 @@ Copyright (C) 2026 CIF Foundation. Licensed under the GNU Lesser General Public 
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">41943056</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">44040208</Property>
 	</Item>
 	<Item Name="Read Double.vi" Type="VI" URL="../Core/Read Double.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;6!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!%%!B#H2J&lt;76E)'^V&gt;$]!!!N!#A!%2'&amp;U91!!.E"Q!"Y!!#!?1UF'8UFD:7^S?8B@1WBO8U2P&gt;7*M:3ZM&gt;G.M98.T!!!+1UF'6'&amp;H)'^V&gt;!!!"!!!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!%U!$!!R5;7VF&lt;X6U)#BN=SE!!$2!=!!?!!!A(E.*2F^*9W6P=HFY8U.I&lt;F^%&lt;X6C&lt;'5O&lt;(:D&lt;'&amp;T=Q!!#5.*2F2B:S"J&lt;A"5!0!!$!!$!!1!"1!'!!=!"Q!(!!=!#!!*!!=!#A-!!(A!!!U)!!!*!!!!#1!!!)U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!A!!!!!!!!!EA!!!!!"!!M!!!!!</Property>
@@ -70,13 +70,13 @@ Copyright (C) 2026 CIF Foundation. Licensed under the GNU Lesser General Public 
 		<Property Name="NI.ClassItem.State" Type="Int">276832272</Property>
 	</Item>
 	<Item Name="Write Double.vi" Type="VI" URL="../Core/Write Double.vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;6!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!%%!B#H2J&lt;76E)'^V&gt;$]!!!1!!!!W1(!!(A!!)"Z$35:@37.F&lt;X*Z?&amp;^$;'Z@2'^V9GRF,GRW9WRB=X-!!!J$35:597=A&lt;X6U!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!".!!Q!-6'FN:7^V&gt;#!I&lt;8-J!!!,1!I!"%2B&gt;'%!!$2!=!!?!!!A(E.*2F^*9W6P=HFY8U.I&lt;F^%&lt;X6C&lt;'5O&lt;(:D&lt;'&amp;T=Q!!#5.*2F2B:S"J&lt;A"5!0!!$!!$!!1!"1!'!!5!"1!&amp;!!5!"Q!)!!E!#A-!!(A!!!U)!!!*!!!!!!!!!)E!!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!A!!!!)!!!!E!!!!!!"!!M!!!!!</Property>
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;6!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!%%!B#H2J&lt;76E)'^V&gt;$]!!!1!!!!W1(!!(A!!)"Z$35:@37.F&lt;X*Z?&amp;^$;'Z@2'^V9GRF,GRW9WRB=X-!!!J$35:597=A&lt;X6U!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!".!!Q!-6'FN:7^V&gt;#!I&lt;8-J!!!,1!I!"%2B&gt;'%!!$2!=!!?!!!A(E.*2F^*9W6P=HFY8U.I&lt;F^%&lt;X6C&lt;'5O&lt;(:D&lt;'&amp;T=Q!!#5.*2F2B:S"J&lt;A"5!0!!$!!$!!1!"1!'!!5!"1!&amp;!!5!"Q!)!!E!#A-!!(A!!!U)!!!*!!!!!!!!!)U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!A!!!!)!!!!EA!!!!!"!!M!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">1090519168</Property>
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">41943056</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">8396816</Property>
 	</Item>
 	<Item Name="Set Data Value.vi" Type="VI" URL="../Core/Set Data Value.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;7!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$%!B"V6Q:'&amp;U:71!"!!!!$:!=!!?!!!A(E.*2F^*9W6P=HFY8U.I&lt;F^%&lt;X6C&lt;'5O&lt;(:D&lt;'&amp;T=Q!!#E.*2F2B:S"P&gt;81!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!$5!&amp;!!&gt;/&gt;7VF=GFD!":!1!!"`````Q!)#5:M981A2'&amp;U91!U1(!!(A!!)"Z$35:@37.F&lt;X*Z?&amp;^$;'Z@2'^V9GRF,GRW9WRB=X-!!!F$35:597=A;7Y!6!$Q!!Q!!Q!%!!5!"A!&amp;!!5!"1!&amp;!!=!#1!&amp;!!I#!!"Y!!!.#!!!#1!!!!!!!!#.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!1!!!!!!!!!*)!!!!!!1!,!!!!!!</Property>

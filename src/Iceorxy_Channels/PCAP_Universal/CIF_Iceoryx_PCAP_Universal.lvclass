@@ -45,13 +45,13 @@ Copyright (C) 2026 CIF Foundation. Licensed under the GNU Lesser General Public 
 				<Property Name="NI.ClassItem.State" Type="Int">1115684864</Property>
 			</Item>
 			<Item Name="Write CIF Publisher Refnum.vi" Type="VI" URL="../Accessors/Write CIF Publisher Refnum.vi">
-				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!(&lt;!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!%Z!=!!?!!!E)E.*2F^*9W6P=HFY8V"$16"@67ZJ&gt;G6S=W&amp;M,GRW9WRB=X-!!"Z$35:@37.F&lt;X*Z?&amp;^11U&amp;18V6O;8:F=H.B&lt;#"P&gt;81!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!$5!)!!:S:7:O&gt;7U!!"&gt;!&amp;1!""G.J:H"V9A!!"U.*2C"1&gt;7)!5Q$RZOC&gt;:Q!!!!).37.F&lt;X*Z?#ZM&gt;GRJ9BB$359A5(6C&lt;'FT;'6S)&amp;*F:GZV&lt;3ZD&gt;'Q!*%"1!!)!"Q!)&amp;%.*2C"1&gt;7*M;8.I:8)A5G6G&lt;H6N!!"-1(!!(A!!*#*$35:@37.F&lt;X*Z?&amp;^11U&amp;18V6O;8:F=H.B&lt;#ZM&gt;G.M98.T!!!&gt;1UF'8UFD:7^S?8B@5%."5&amp;^6&lt;GFW:8*T97QA;7Y!91$Q!!Q!!Q!%!!1!"1!%!!1!"!!%!!9!"!!*!!I#!!"Y!!!.#!!!!!!!!!!!!!!*!!!!!!!!!!!!!!!!!!!!!!!!!!A!!!!!!!!!%!!!!"!!!!U!!!!-!!!!!!!!!!!!!!%!#Q!!!!!</Property>
+				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!(&lt;!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!%Z!=!!?!!!E)E.*2F^*9W6P=HFY8V"$16"@67ZJ&gt;G6S=W&amp;M,GRW9WRB=X-!!"Z$35:@37.F&lt;X*Z?&amp;^11U&amp;18V6O;8:F=H.B&lt;#"P&gt;81!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!$5!)!!:S:7:O&gt;7U!!"&gt;!&amp;1!""G.J:H"V9A!!"U.*2C"1&gt;7)!5Q$RZOC&gt;:Q!!!!).37.F&lt;X*Z?#ZM&gt;GRJ9BB$359A5(6C&lt;'FT;'6S)&amp;*F:GZV&lt;3ZD&gt;'Q!*%"1!!)!"Q!)&amp;%.*2C"1&gt;7*M;8.I:8)A5G6G&lt;H6N!!"-1(!!(A!!*#*$35:@37.F&lt;X*Z?&amp;^11U&amp;18V6O;8:F=H.B&lt;#ZM&gt;G.M98.T!!!&gt;1UF'8UFD:7^S?8B@5%."5&amp;^6&lt;GFW:8*T97QA;7Y!91$Q!!Q!!Q!%!!1!"1!%!!1!"!!%!!9!"!!*!!I#!!"Y!!!.#!!!!!!!!!!!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!A!!!!!!!!!%!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!#Q!!!!!</Property>
 				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 				<Property Name="NI.ClassItem.Flags" Type="Int">16777216</Property>
 				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-				<Property Name="NI.ClassItem.State" Type="Int">1351360512</Property>
+				<Property Name="NI.ClassItem.State" Type="Int">1117782016</Property>
 			</Item>
 		</Item>
 		<Item Name="CIF Subscriber Refnum" Type="Property Definition">

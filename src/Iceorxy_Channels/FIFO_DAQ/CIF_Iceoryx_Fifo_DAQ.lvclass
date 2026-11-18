@@ -42,13 +42,13 @@ Copyright (C) 2026 CIF Foundation. Licensed under the GNU Lesser General Public 
 			<Property Name="NI.ClassItem.State" Type="Int">41943056</Property>
 		</Item>
 		<Item Name="Write DAQ FIFO.vi" Type="VI" URL="../Core/Write DAQ FIFO.vi">
-			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!*P!!!!&amp;A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!%%!B#H2J&lt;76E)'^V&gt;$]!!!V!#A!(4H6N:8*J9Q!91%!!!@````]!"1N.:7&amp;T&gt;8*F&lt;76O&gt;!!*1!I!!G25!!!01!1!#62J&lt;76T&gt;'&amp;N=!"5!0%!!!!!!!!!!B.$;'&amp;O&lt;G6M1W^N&lt;7^O,GRW&lt;'FC&amp;52B&gt;'&amp;U?8"F)&amp;&gt;B&gt;G6G&lt;X*N,G.U&lt;!!C1&amp;!!!Q!'!!=!#"&amp;898:F:G^S&lt;3"%982B&gt;(FQ:1!71%!!!@````]!#1B%982B)%^V&gt;!!!.%"Q!"Y!!"Y=1UF'8UFD:7^S?8B@2GFG&lt;V^%16%O&lt;(:D&lt;'&amp;T=Q!!#U.*2E:*2E]A&lt;X6U!!1!!!!.1!5!"U.M&lt;W.L351!#5!%!!*5-!!!#U!%!!658U^V&gt;!",!0%!!!!!!!!!!B.$;'&amp;O&lt;G6M1W^N&lt;7^O,GRW&lt;'FC$F2J&lt;764&gt;'&amp;N=(-O9X2M!#"!5!!$!!U!$A!0$U:*2E]A6'FN:8.U97VQ=Q!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!".!!Q!-6'FN:7^V&gt;#!I&lt;8-J!!!51%!!!@````]!#1&gt;%982B)%FO!$2!=!!?!!!?(%.*2F^*9W6P=HFY8U:J:G^@2%&amp;2,GRW9WRB=X-!!!J$35:'35:0)'FO!!"5!0!!$!!$!!1!#A!,!!Q!$!!1!!Q!%1!3!"-!&amp;!-!!(A!!!U)!!!*!!!!$1I!!)U,!!!!!!!!!!!!!"!!!!!!!!!!#A!!!!A!!!)3!!!!EA!!!!!"!"5!!!!!</Property>
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!*P!!!!&amp;A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!%%!B#H2J&lt;76E)'^V&gt;$]!!!V!#A!(4H6N:8*J9Q!91%!!!@````]!"1N.:7&amp;T&gt;8*F&lt;76O&gt;!!*1!I!!G25!!!01!1!#62J&lt;76T&gt;'&amp;N=!"5!0%!!!!!!!!!!B.$;'&amp;O&lt;G6M1W^N&lt;7^O,GRW&lt;'FC&amp;52B&gt;'&amp;U?8"F)&amp;&gt;B&gt;G6G&lt;X*N,G.U&lt;!!C1&amp;!!!Q!'!!=!#"&amp;898:F:G^S&lt;3"%982B&gt;(FQ:1!71%!!!@````]!#1B%982B)%^V&gt;!!!.%"Q!"Y!!"Y=1UF'8UFD:7^S?8B@2GFG&lt;V^%16%O&lt;(:D&lt;'&amp;T=Q!!#U.*2E:*2E]A&lt;X6U!!1!!!!.1!5!"U.M&lt;W.L351!#5!%!!*5-!!!#U!%!!658U^V&gt;!",!0%!!!!!!!!!!B.$;'&amp;O&lt;G6M1W^N&lt;7^O,GRW&lt;'FC$F2J&lt;764&gt;'&amp;N=(-O9X2M!#"!5!!$!!U!$A!0$U:*2E]A6'FN:8.U97VQ=Q!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!".!!Q!-6'FN:7^V&gt;#!I&lt;8-J!!!51%!!!@````]!#1&gt;%982B)%FO!$2!=!!?!!!?(%.*2F^*9W6P=HFY8U:J:G^@2%&amp;2,GRW9WRB=X-!!!J$35:'35:0)'FO!!"5!0!!$!!$!!1!#A!,!!Q!$!!1!!Q!%1!3!"-!&amp;!-!!(A!!!U)!!!*!!!!$1I!!)U,!!!!!!!!!!!!!"!!!!!!!!!!#A!!!!A!!!)1!!!!EA!!!!!"!"5!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 			<Property Name="NI.ClassItem.Flags" Type="Int">16777344</Property>
 			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
 			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-			<Property Name="NI.ClassItem.State" Type="Int">41943056</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">8396816</Property>
 		</Item>
 	</Item>
 	<Item Name="Iceoryx DAQ FIFO.vi" Type="VI" URL="../Iceoryx DAQ FIFO.vi">

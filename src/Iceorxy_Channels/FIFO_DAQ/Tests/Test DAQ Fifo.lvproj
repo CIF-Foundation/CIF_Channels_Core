@@ -95,23 +95,33 @@ AddOutputFilter chunkFilter
 		<Property Name="target.webservices.SecurityAPIKey" Type="Str">PqVr/ifkAQh+lVrdPIykXlFvg12GhhQFR8H9cUhphgg=:pTe9HRlQuMfJxAG6QCGq7UvoUpJzAzWGKy5SbZ+roSU=</Property>
 		<Property Name="target.webservices.ValidTimestampWindow" Type="Int">15</Property>
 		<Item Name="DAQ Performance Test.vi" Type="VI" URL="../DAQ Performance Test.vi"/>
-		<Item Name="Test DAQ Backpressure.vi" Type="VI" URL="../Test DAQ Backpressure.vi"/>
 		<Item Name="Test DAQ Comm.vi" Type="VI" URL="../Test DAQ Comm.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Assert Error Cluster Type.vim" Type="VI" URL="/&lt;vilib&gt;/Utility/TypeAssert/Assert Error Cluster Type.vim"/>
+				<Item Name="Assert Fixed-Point Numeric Type.vim" Type="VI" URL="/&lt;vilib&gt;/Utility/TypeAssert/Assert Fixed-Point Numeric Type.vim"/>
 				<Item Name="Create NI GUID.vi" Type="VI" URL="/&lt;vilib&gt;/string/Create NI GUID.vi"/>
 				<Item Name="DataTypes_CIF_U.lvlib" Type="Library" URL="/&lt;vilib&gt;/CIF Foundation/CIF Utilities/DataTypes/DataTypes_CIF_U.lvlib"/>
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
 				<Item Name="Errors_CIF_U.lvlib" Type="Library" URL="/&lt;vilib&gt;/CIF Foundation/CIF Utilities/Errors/Errors_CIF_U.lvlib"/>
+				<Item Name="File_CIF_U.lvlib" Type="Library" URL="/&lt;vilib&gt;/CIF Foundation/CIF Utilities/File/File_CIF_U.lvlib"/>
 				<Item Name="Get LV Class Name.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/LVClass/Get LV Class Name.vi"/>
 				<Item Name="High Resolution Relative Seconds.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/High Resolution Relative Seconds.vi"/>
+				<Item Name="Iceoryx.lvlib" Type="Library" URL="/&lt;vilib&gt;/CIF Foundation/CIF Iceoryx/Iceoryx.lvlib"/>
+				<Item Name="PCAP DAQ Core.lvlib" Type="Library" URL="/&lt;vilib&gt;/CIF Foundation/CIF PCAP DAQ/PCAP DAQ Core.lvlib"/>
+				<Item Name="pcap_Parse_Build_CIF.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/CIF Foundation/CIF PCAP Parse and Build/pcap_Parse_Build_CIF.lvclass"/>
+				<Item Name="Space Constant.vi" Type="VI" URL="/&lt;vilib&gt;/dlg_ctls.llb/Space Constant.vi"/>
 				<Item Name="Stats_CIF_U.lvlib" Type="Library" URL="/&lt;vilib&gt;/CIF Foundation/CIF Utilities/Statistics/Stats_CIF_U.lvlib"/>
 				<Item Name="Time_CIF_U.lvlib" Type="Library" URL="/&lt;vilib&gt;/CIF Foundation/CIF Utilities/Time/Time_CIF_U.lvlib"/>
+				<Item Name="Trim Whitespace.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace.vi"/>
+				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
 			<Item Name="ChannelCommon.lvlib" Type="Library" URL="../../../../ChannelCommon/ChannelCommon.lvlib"/>
+			<Item Name="CIF_Iceoryx_Chn.lvclass" Type="LVClass" URL="../../../CIF_Iceoryx_Chan/CIF_Iceoryx_Chn.lvclass"/>
 			<Item Name="CIF_Iceoryx_Fifo_DAQ.lvclass" Type="LVClass" URL="../../CIF_Iceoryx_Fifo_DAQ.lvclass"/>
+			<Item Name="CIF_Iceoryx_PCAP_Universal.lvclass" Type="LVClass" URL="../../../PCAP_Universal/CIF_Iceoryx_PCAP_Universal.lvclass"/>
 			<Item Name="CIFChannels.lvclass" Type="LVClass" URL="../../../../CIFChannels/CIFChannels.lvclass"/>
+			<Item Name="Iceoryx Channel Utilities.lvlib" Type="Library" URL="../../../Iceorxy Utilities/Iceoryx Channel Utilities.lvlib"/>
 			<Item Name="kernel32.dll" Type="Document" URL="kernel32.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>

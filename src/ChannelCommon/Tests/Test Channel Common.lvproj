@@ -24,6 +24,10 @@ Copyright (C) 2026 CIF Foundation. Licensed under the GNU Lesser General Public 
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="DataTypes_CIF_U.lvlib" Type="Library" URL="/&lt;vilib&gt;/CIF Foundation/CIF Utilities/DataTypes/DataTypes_CIF_U.lvlib"/>
 				<Item Name="Errors_CIF_U.lvlib" Type="Library" URL="/&lt;vilib&gt;/CIF Foundation/CIF Utilities/Errors/Errors_CIF_U.lvlib"/>
+				<Item Name="Flatten I64.vi" Type="VI" URL="/&lt;vilib&gt;/CIF Foundation/CIF Utilities/Datatypes/Flatten I64.vi"/>
+				<Item Name="Flatten U64.vi" Type="VI" URL="/&lt;vilib&gt;/CIF Foundation/CIF Utilities/Datatypes/Flatten U64.vi"/>
+				<Item Name="Unflatten I64.vi" Type="VI" URL="/&lt;vilib&gt;/CIF Foundation/CIF Utilities/Datatypes/Unflatten I64.vi"/>
+				<Item Name="Unflatten U64.vi" Type="VI" URL="/&lt;vilib&gt;/CIF Foundation/CIF Utilities/Datatypes/Unflatten U64.vi"/>
 			</Item>
 			<Item Name="ChannelCommon.lvlib" Type="Library" URL="../../ChannelCommon.lvlib"/>
 		</Item>

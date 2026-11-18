@@ -1,11 +1,11 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version='1.0' encoding='UTF-8'?>
 <LVClass LVVersion="21008000">
-	<Property Name="NI.Lib.Icon" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)P!!!*Q(C=\&gt;3^&lt;3-R%-8RZ]-&amp;F[K$AVJY,1CY#N4#N+$5I6K9&amp;N3#7JC,(3G_4.(:$N@`Z1Y-'\#FR!9=G#PKYZ&amp;,`J:,L44+,_GHJGPF\]8SKFXDV7^PNC`.&amp;^LVX/O&gt;]_=_\\&gt;@HP^.`\7CC_7\`&lt;P^;\&gt;@X^[XV`]%HVOEGS'F&amp;D7J1@7YOKH)C\T)C\T)CTT*ETT*ETT*ETT)ATT)ATT)A^TE*D?ZS5VO]H'1CVTE)G&gt;6CMG,C9J"CQ'+TF"5P"7?QF.Y#A]`68A+4_%J0)7(,CI]B;@Q&amp;*\#QWEK0)7H]"3?QM.11V,D)-&gt;4?"B?C3@R**\%EXC95IEH!334*1-HA]"1UJB]34S**`(Q69EH]33?R*.Y;&amp;&lt;C34S**`%E(EY:KZ*$-R`E?"B'A3@Q"*\!%XA97I%H]!3?Q".YG%["*`!%C'$#9(!)#EY+/A1`!E`AY5/"*`!%HM!4?'A;&gt;SD'SMS;_3$(9TT'9TT'9TQ-)?-R(O-R(O.B7"G0]2C0]2A05]FYD-&gt;Y$-2-SP1SAZE443=4'!_PM6M]\F)/C=@2@]VFI[IXI(JDK4?-?C/I&lt;\$[RKFPC(KBV1OI8BDV";MP2!V54[Q?5.V2:^Z0V#0V1.V4&gt;^1N&gt;5.&gt;5V@TK2`=]8Q_[X1[[8A][H!Y;,`@;\@&lt;;&lt;P&gt;;L0:;,V?;\6;04_N@H-MZ?&lt;6=_HB=:LO`UX4`TM_`SS`O^T3^T0K]FT[#M^'`&gt;$UYD(0'DU""&gt;8(41!!!!!</Property>
-	<Property Name="NI.Lib.SourceVersion" Type="Int">553680896</Property>
-	<Property Name="NI.Lib.Version" Type="Str">1.0.0.1</Property>
 	<Property Name="NI.Lib.Description" Type="Str">CIPC channel implementation for I64 data types.
 
 Copyright (C) 2026 CIF Foundation. Licensed under the GNU Lesser General Public License v3.0 (LGPL-3.0).</Property>
+	<Property Name="NI.Lib.Icon" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)P!!!*Q(C=\&gt;3^&lt;3-R%-8RZ]-&amp;F[K$AVJY,1CY#N4#N+$5I6K9&amp;N3#7JC,(3G_4.(:$N@`Z1Y-'\#FR!9=G#PKYZ&amp;,`J:,L44+,_GHJGPF\]8SKFXDV7^PNC`.&amp;^LVX/O&gt;]_=_\\&gt;@HP^.`\7CC_7\`&lt;P^;\&gt;@X^[XV`]%HVOEGS'F&amp;D7J1@7YOKH)C\T)C\T)CTT*ETT*ETT*ETT)ATT)ATT)A^TE*D?ZS5VO]H'1CVTE)G&gt;6CMG,C9J"CQ'+TF"5P"7?QF.Y#A]`68A+4_%J0)7(,CI]B;@Q&amp;*\#QWEK0)7H]"3?QM.11V,D)-&gt;4?"B?C3@R**\%EXC95IEH!334*1-HA]"1UJB]34S**`(Q69EH]33?R*.Y;&amp;&lt;C34S**`%E(EY:KZ*$-R`E?"B'A3@Q"*\!%XA97I%H]!3?Q".YG%["*`!%C'$#9(!)#EY+/A1`!E`AY5/"*`!%HM!4?'A;&gt;SD'SMS;_3$(9TT'9TT'9TQ-)?-R(O-R(O.B7"G0]2C0]2A05]FYD-&gt;Y$-2-SP1SAZE443=4'!_PM6M]\F)/C=@2@]VFI[IXI(JDK4?-?C/I&lt;\$[RKFPC(KBV1OI8BDV";MP2!V54[Q?5.V2:^Z0V#0V1.V4&gt;^1N&gt;5.&gt;5V@TK2`=]8Q_[X1[[8A][H!Y;,`@;\@&lt;;&lt;P&gt;;L0:;,V?;\6;04_N@H-MZ?&lt;6=_HB=:LO`UX4`TM_`SS`O^T3^T0K]FT[#M^'`&gt;$UYD(0'DU""&gt;8(41!!!!!</Property>
+	<Property Name="NI.Lib.SourceVersion" Type="Int">553680896</Property>
+	<Property Name="NI.Lib.Version" Type="Str">1.0.0.1</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Property Name="NI.LVClass.ClassNameVisibleInProbe" Type="Bool">true</Property>
 	<Property Name="NI.LVClass.DataValRefToSelfLimitedLibFlag" Type="Bool">true</Property>
@@ -52,22 +52,22 @@ Copyright (C) 2026 CIF Foundation. Licensed under the GNU Lesser General Public 
 		</Item>
 	</Item>
 	<Item Name="Verify Type.vi" Type="VI" URL="../SubVIs/Verify Type.vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%V!!!!#1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$R!=!!?!!!;'%.*2F^$36"$8U.I&lt;F^*.D1O&lt;(:D&lt;'&amp;T=Q!!&amp;U.*2F^$36"$8U.I&lt;F^%&lt;X6C&lt;'5A&lt;X6U!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!0%"Q!"Y!!"I91UF'8U.*5%.@1WBO8UEW.#ZM&gt;G.M98.T!!!71UF'8U.*5%.@1WBO8U2P&gt;7*M:3"J&lt;A!!6!$Q!!Q!!Q!%!!1!"1!%!!1!"!!%!!9!"!!%!!=#!!"Y!!!.#!!!!!!!!!!!!!#.#Q!!!!!!!!!!!!!!!!!!!!!!!!A!!!!!!!!!!!!!!*!!!!!!!1!)!!!!!!</Property>
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%V!!!!#1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$R!=!!?!!!;'%.*2F^$36"$8U.I&lt;F^*.D1O&lt;(:D&lt;'&amp;T=Q!!&amp;U.*2F^$36"$8U.I&lt;F^%&lt;X6C&lt;'5A&lt;X6U!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!0%"Q!"Y!!"I91UF'8U.*5%.@1WBO8UEW.#ZM&gt;G.M98.T!!!71UF'8U.*5%.@1WBO8U2P&gt;7*M:3"J&lt;A!!6!$Q!!Q!!Q!%!!1!"1!%!!1!"!!%!!9!"!!%!!=#!!"Y!!!.#!!!!!!!!!!!!!#.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!!!!!!!*!!!!!!!1!)!!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-		<Property Name="NI.ClassItem.Flags" Type="Int">16777344</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">1090519168</Property>
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">276832256</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">8396800</Property>
 	</Item>
 	<Item Name="Create.vi" Type="VI" URL="../Core/Create.vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'L!!!!$1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$"!=!!?!!!;'%.*2F^$36"$8U.I&lt;F^*.D1O&lt;(:D&lt;'&amp;T=Q!!#E.*2F2B:S"P&gt;81!!&amp;5!]1!!!!!!!!!#%U.*2E.I97ZO:7RT,GRW9WRB=X-.2'FS:7.U;7^O,G.U&lt;!!L1"9!!AF1&gt;7*M;8.I:8)+5X6C=W.S;7*F=A!!#52J=G6D&gt;'FP&lt;A!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!!V!"1!(4H6N:8*J9Q!A1%!!!@````]!#"*$&gt;8.U&lt;WUA1W^O:GFH)%2B&gt;'%!!!Z!-0````]%4G&amp;N:1!!,E"Q!"Y!!"I91UF'8U.*5%.@1WBO8UEW.#ZM&gt;G.M98.T!!!*1UF'6'&amp;H)'FO!&amp;1!]!!-!!-!"!!%!!5!"!!%!!1!"A!(!!E!#A!,!Q!!?!!!$1A!!!!!!!!!!!!!D1M!!!!!!!!!!!!!!!!!!"!!!!!+!!!##!!!!B!!!!#3!!!!!!%!$!!!!!!</Property>
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'L!!!!$1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$"!=!!?!!!;'%.*2F^$36"$8U.I&lt;F^*.D1O&lt;(:D&lt;'&amp;T=Q!!#E.*2F2B:S"P&gt;81!!&amp;5!]1!!!!!!!!!#%U.I97ZO:7R$&lt;WVN&lt;WYO&lt;(:M;7).2'FS:7.U;7^O,G.U&lt;!!L1"5!!AF1&gt;7*M;8.I:8)+5X6C=W.S;7*F=A!!#52J=G6D&gt;'FP&lt;A!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!!V!"1!(4H6N:8*J9Q!A1%!!!@````]!#"*$&gt;8.U&lt;WUA1W^O:GFH)%2B&gt;'%!!!Z!-0````]%4G&amp;N:1!!,E"Q!"Y!!"I91UF'8U.*5%.@1WBO8UEW.#ZM&gt;G.M98.T!!!*1UF'6'&amp;H)'FO!&amp;1!]!!-!!-!"!!%!!5!"!!%!!1!"A!(!!E!#A!,!Q!!?!!!$1A!!!!!!!!!!!!!D1M!!!!!!!!!!!!!!!!!!"!!!!!+!!!##!!!!B!!!!#3!!!!!!%!$!!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">16777344</Property>
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1342186000</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1082139152</Property>
 	</Item>
 	<Item Name="Read I64.vi" Type="VI" URL="../Core/Read I64.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;*!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!%%!B#H2J&lt;76E)'^V&gt;$]!!!N!"!!%2'&amp;U91!!-%"Q!"Y!!"I91UF'8U.*5%.@1WBO8UEW.#ZM&gt;G.M98.T!!!+1UF'6'&amp;H)'^V&gt;!!!"!!!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!%U!$!!R5;7VF&lt;X6U)#BN=SE!!#Z!=!!?!!!;'%.*2F^$36"$8U.I&lt;F^*.D1O&lt;(:D&lt;'&amp;T=Q!!#5.*2F2B:S"J&lt;A"5!0!!$!!$!!1!"1!'!!=!"Q!(!!=!#!!*!!=!#A-!!(A!!!U)!!!*!!!!#1!!!)U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!A!!!!!!!!!EA!!!!!"!!M!!!!!</Property>
